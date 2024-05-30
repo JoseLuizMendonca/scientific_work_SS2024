@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1717094625.73355 "src/Scientific_work_SS2024.tex" "Scientific_work_SS2024.pdf" "Scientific_work_SS2024" 1717094627.9612 0
+["pdflatex"] 1717094724.11902 "src/Scientific_work_SS2024.tex" "Scientific_work_SS2024.pdf" "Scientific_work_SS2024" 1717094726.3695 0
   "/home/joseluiz/texmf/tex/latex/rwustyle/rwudefs.sty" 1712932514.53084 544 ff6defc104488f7523d82f1c9da95384 ""
   "/home/joseluiz/texmf/tex/latex/rwustyle/rwufont.sty" 1712932514.53084 1716 1223a94412e74688c6f5b7e76bc2488d ""
   "/home/joseluiz/texmf/tex/latex/rwustyle/rwukoma.sty" 1712932514.53484 4967 3518b0558cfb7053a738fa7be8f39d4c ""
@@ -95,10 +95,10 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1710714342 41663 c82a74d8036de408d74af2c8ae75c7e5 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1712653276 10850876 1e25def292bf9f8e5f40af08f28dfb26 ""
   "/usr/local/texlive/2024/texmf.cnf" 1712653202.15233 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Scientific_work_SS2024.aux" 1717094627.52862 622 e79694ffc471c23af15544795fd97694 "pdflatex"
-  "Scientific_work_SS2024.out" 1717094627.48062 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "Scientific_work_SS2024.toc" 1717094627.52862 163 afe17b485307f159d841bf7564776ffc "pdflatex"
-  "src/Scientific_work_SS2024.tex" 1717094568.94075 584 cbf5fbb539c5c507410cf87a1cb65611 ""
+  "Scientific_work_SS2024.aux" 1717094725.92841 622 e79694ffc471c23af15544795fd97694 "pdflatex"
+  "Scientific_work_SS2024.out" 1717094725.88041 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Scientific_work_SS2024.toc" 1717094725.92841 163 afe17b485307f159d841bf7564776ffc "pdflatex"
+  "src/Scientific_work_SS2024.tex" 1717094696.84847 589 b1603f6f9374092d4ccebed001c248c1 ""
   (generated)
   "Scientific_work_SS2024.aux"
   "Scientific_work_SS2024.log"
