@@ -17,6 +17,6 @@ RUN make install-home
 #RUN latexmk -xelatex Scientific_work_SS2024.tex
 
 WORKDIR /latex
-RUN latexmk -xelatex Scientific_work_SS2024.tex
+CMD latexmk -xelatex Scientific_work_SS2024.tex
 
 
