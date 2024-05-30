@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  29 MAY 2024 12:07
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  30 MAY 2024 19:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -518,39 +518,31 @@ File: rwulogo.eps Graphic file (type eps)
 
 
 ]
-LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 34.
-
-
-LaTeX Font Warning: Font shape `TU/lmtt/bx/it' in size <10.95> not available
-(Font)              Font shape `TU/lmtt/b/sl' tried instead on input line 36.
-
 File: rwulogo.eps Graphic file (type eps)
 <rwulogo.eps>
-File: rwulogo.eps Graphic file (type eps)
-<rwulogo.eps>
-[2
+ [2
 
-]
-File: rwulogo.eps Graphic file (type eps)
-<rwulogo.eps>
- [3] 
+] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Scientific_work_SS2024.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `Scientific_work_SS2024.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18754 strings out of 474761
- 413637 string characters out of 5757510
- 1932145 words of memory out of 5000000
- 40684 multiletter control sequences out of 15000+600000
- 565076 words of font info for 90 fonts, out of 8000000 for 9000
+ 18694 strings out of 474761
+ 411853 string characters out of 5757510
+ 1928145 words of memory out of 5000000
+ 40635 multiletter control sequences out of 15000+600000
+ 565020 words of font info for 83 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  109i,20n,121p,10998b,666s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.pdf (3 pages).
+Output written on Scientific_work_SS2024.pdf (2 pages).
