@@ -1,0 +1,3 @@
+[submodule "docker/latex-rwustyle"]
+	path = docker/latex-rwustyle
+	url = https://fbe-gitlab.hs-weingarten.de/ag-201681/latex-rwustyle.git
