@@ -67,33 +67,33 @@ Compare what we need vs what we have from the method
 
 # How fast can we get the parts done
 
-- TBC
+    - TBC
 
 # Cost
 
-Made from 3D Printing PLA:
+    Made from 3D Printing PLA:
 
-- 4x Motor-Wheel Shaft: €0.76
-- 2x Rocker Axle: €1.92
-- 2x Boogie Axle: €1.48
+    - 4x Motor-Wheel Shaft: €0.76
+    - 2x Rocker Axle: €1.92
+    - 2x Boogie Axle: €1.48
 
-Total: €4.16
+    Total: €4.16
 
-Made from 6061 T6 Aluminium:
+    Made from 6061 T6 Aluminium:
 
-- 4x Motor-Wheel Shaft
-- 2x Rocker Axle
-- 2x Boogie Axle
+    - 4x Motor-Wheel Shaft
+    - 2x Rocker Axle
+    - 2x Boogie Axle
 
 Total: €201.28
 
 # Precision
 
-- TBC
+    - TBC
 
 # Complexity of the process
 
-- Compare the difference between just loading an STL file on to Prusa and having not only having a design on Fusion360,  but also make a technical drawing out of it, have implemented tolerances and also having to hand it in to an engineer where they review your drawing, may correct it, go home, make the corrections, send it back to them, they approve, then get put on a list until your component can be made. 
+    - Compare the difference between just loading an STL file on to Prusa and having not only having a design on Fusion360,  but also make a technical drawing out of it, have implemented tolerances and also having to hand it in to an engineer where they review your drawing, may correct it, go home, make the corrections, send it back to them, they approve, then get put on a list until your component can be made. 
 
 # Thermal properties
 
@@ -108,7 +108,7 @@ Total: €201.28
     - Thermal Degradation: Does not degrade at typical operational temperatures
 
 # Extra: environmental impact of the production parts, recyclability
-- TBC
+    - TBC
 
 
 
