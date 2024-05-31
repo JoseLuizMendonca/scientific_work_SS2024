@@ -97,14 +97,14 @@ Total: €201.28
 
 # Thermal properties
 
- 3D Printing PLA:
+    3D Printing PLA:
     - Melting Point: 145-160 ˚C
-    - Coefficient of Thermal Expansion: 68-100 x 10⁻⁶ /°C
+    - Coefficient of Thermal Expansion: 68-100 x 10⁻⁶ per °C
     - Thermal Degradation: Begins above 200°C
 
     6061 T6 Aluminium:
     - Melting Point: 582 - 652 °C
-    - Coefficient of Thermal Expansion: 23.6 x 10⁻⁶ /°C
+    - Coefficient of Thermal Expansion: 23.6 x 10⁻⁶ per °C
     - Thermal Degradation: Does not degrade at typical operational temperatures
 
 # Extra: environmental impact of the production parts, recyclability
