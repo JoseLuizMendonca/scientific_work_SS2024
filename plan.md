@@ -31,6 +31,8 @@ Compare what we need vs what we have from the method
 
 - Extra: environmental impact of the production parts, recyclability
 
+when you do stuff
+
 
 
     
