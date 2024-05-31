@@ -39,12 +39,12 @@ Compare what we need vs what we have from the method
 
     3D Printing PLA:
     - Young's Modulus: 3.5 MPa
-    - Elongation at break: //
+    - Elongation at break: Not found yet
     - Melting Point: 145-160 ˚C
 
     6061 T6 Aluminium:
     - Young's Modulus: 68.9 MPa
-    - Elongation at break: //
+    - Elongation at break: Not found yet
     - Melting Point: 582 - 652 °C
 
 
@@ -52,7 +52,7 @@ Compare what we need vs what we have from the method
 
     - Requirements for the project
 
-    // TBC
+    - TBC
 
 
 # Tensile strength
@@ -67,29 +67,29 @@ Compare what we need vs what we have from the method
 
 # How fast can we get the parts done
 
-// TBC
+- TBC
 
 # Cost
 
 Made from 3D Printing PLA:
 
-4x Motor-Wheel Shaft: €0.76
-2x Rocker Axle: €1.92
-2x Boogie Axle: €1.48
+- 4x Motor-Wheel Shaft: €0.76
+- 2x Rocker Axle: €1.92
+- 2x Boogie Axle: €1.48
 
 Total: €4.16
 
 Made from 6061 T6 Aluminium:
 
-4x Motor-Wheel Shaft
-2x Rocker Axle
-2x Boogie Axle
+- 4x Motor-Wheel Shaft
+- 2x Rocker Axle
+- 2x Boogie Axle
 
 Total: €201.28
 
 # Precision
 
-// TBC
+- TBC
 
 # Complexity of the process
 
@@ -108,8 +108,7 @@ Total: €201.28
     - Thermal Degradation: Does not degrade at typical operational temperatures
 
 # Extra: environmental impact of the production parts, recyclability
-
-// TBC
+- TBC
 
 
 
