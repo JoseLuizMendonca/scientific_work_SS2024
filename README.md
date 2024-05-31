@@ -1,6 +1,6 @@
 # Scientific Work SS2024
 
-![Compile LaTeX document](https://github.com/joseluizmendonca/scientific_work_ss2024/actions/workflows/compile_latex.yml/badge.svg)
+![Compile LaTeX document](https://github.com/joseluizmendonca/scientific_work_ss2024/actions/workflows/latex_compile.yml/badge.svg)
 
 ## Repository for all things related to the paper
 
