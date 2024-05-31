@@ -1,0 +1,23 @@
+name: Compile LaTeX document
+on:
+  push:
+    branches: [ master ]
+jobs:
+  compile_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v2
+      - name: Run Docker container
+        run: |
+          docker pull docker.pkg.github.com/joseluizmendonca/scientific_work_ss2024/rwu-latex-builder:latest
+          docker run --name latex_container -v ${{ github.workspace }}:/latex docker.pkg.github.com/joseluizmendonca/scientific_work_ss2024/rwu-latex-builder:latest
+      - name: Copy PDF from Docker container
+        run: docker cp latex_container:/latex/Scientific_work_SS2024.pdf .
+      - name: Commit and push PDF
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Scientific_work_SS2024.pdf
+          git commit -m "Add compiled PDF"
+          git push
