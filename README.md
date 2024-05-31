@@ -28,6 +28,10 @@
 
     - Viability of 3d printing as a method of producing parts for the Rover to Mars project.
 
+        - Thesis: Yes, 3 printing is a suitable method for this purpose
+
+            - 
+
 
 
 
