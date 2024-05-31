@@ -13,8 +13,9 @@ jobs:
       - name: Run Docker container
         run: |
           docker pull docker.pkg.github.com/joseluizmendonca/scientific_work_ss2024/rwu-latex-builder:latest
-          docker run --workdir /latex/src --name latex_container -v ${{ github.workspace }}:/latex docker.pkg.github.com/joseluizmendonca/scientific_work_ss2024/rwu-latex-builder:latest      - name: Copy PDF from Docker container
-          docker cp latex_container:/latex/Scientific_work_SS2024.pdf .
+          docker run --workdir /latex/src --name latex_container -v ${{ github.workspace }}:/latex docker.pkg.github.com/joseluizmendonca/scientific_work_ss2024/rwu-latex-builder:latest      
+      - name: Copy PDF from Docker container
+        run: docker cp latex_container:/latex/Scientific_work_SS2024.pdf .
       - name: Commit and push PDF
         run: |
           git config --local user.email "action@github.com"
