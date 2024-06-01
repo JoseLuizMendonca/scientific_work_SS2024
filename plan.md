@@ -35,22 +35,18 @@ Compare what we need vs what we have from the method
 
 # Elasticity of the parts
 
-- Requirements for the project
-
-3D Printing PLA:
+#### 3D Printing PLA:
 - Young's Modulus: 3.5 MPa
 - Elongation at break: Not found yet
 - Melting Point: 145-160 ˚C
 
-6061 T6 Aluminium:
+#### 6061 T6 Aluminium:
 - Young's Modulus: 68.9 MPa
 - Elongation at break: Not found yet
 - Melting Point: 582 - 652 °C
 
 
 # Surface quality
-
-- Requirements for the project
 
 ### Surface Texture Comparison
 
