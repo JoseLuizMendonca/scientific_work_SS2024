@@ -54,13 +54,13 @@ Compare what we need vs what we have from the method
 
 Surface Texture Comparison
 
-3D Printed PLA:
+### 3D Printed PLA:
 
 - Layer Lines: Visible, smoothness varies by resolution
 - Post-Processing: Can improve finish (sanding, coating)
 - Surface Roughness: Generally higher compared to machined metals
 
-6061-T6 Aluminum:
+### 6061-T6 Aluminum:
 
 - Machined Finish: Very smooth, low roughness (Ra 0.4 micrometers)
 - Anodizing and Polishing: Enhances surface quality
@@ -68,15 +68,15 @@ Surface Texture Comparison
 
 Aesthetic and Visual Appearance
 
-3D Printed PLA:
+### 3D Printed PLA:
 
 - Finish: Matte to semi-glossy
 - Color Options: White/Transparent (Colours vary widely depending on the filament you use)
 
 ### 6061-T6 Aluminum:
 
-Finish: Naturally shiny, can be polished
-Color: Typically silver-grey, anodizable in various colors
+- Finish: Naturally shiny, can be polished
+- Color: Typically silver-grey, anodizable in various colors
 
 *Also to be tested in real life hopefully!!!*
 
@@ -132,7 +132,7 @@ Total: €201.28
 
 # Precision
 
-Dimensional Accuracy
+### Dimensional Accuracy
 
 3D Printing (Prusa MK4):
 
@@ -146,7 +146,7 @@ Dimensional Accuracy
 - Influencing Factors: Tool wear, machine calibration, and thermal expansion.
 - Example Source: Industry standards and machining guides often cite these tolerances for CNC machined aluminum parts.
 
-Repeatability
+### Repeatability
 
 3D Printing (Prusa MK4):
 
@@ -156,7 +156,7 @@ Repeatability
 
 - High repeatability with CNC machining, ensuring nearly identical parts within specified tolerances.
 
-Complexity and Customization
+### Complexity and Customization
 
 3D Printing (Prusa MK4):
 
@@ -186,9 +186,9 @@ Complexity and Customization
 
 # Extra: environmental impact of the production parts, how recyclable the parts are
 
-Environmental Impact
+### Environmental Impact
 
-3D Printing with PLA:
+#### 3D Printing with PLA:
 
 - Material Source: Derived from renewable resources (e.g., corn starch, sugarcane).
 - Energy Consumption: Generally lower than traditional manufacturing, especially for small batches.
@@ -197,7 +197,7 @@ Environmental Impact
     - Biodegradable under industrial composting conditions.
     - Limited biodegradability in typical landfill environments.
 
-Manufacturing with 6061 T6 Aluminum:
+#### Manufacturing with 6061 T6 Aluminum:
 
 - Material Source: Extracted from bauxite ore, involving energy-intensive mining and refining.
 - Energy Consumption: Higher due to large machinery and energy required for mining and refining.
@@ -206,7 +206,7 @@ Manufacturing with 6061 T6 Aluminum:
     - Highly recyclable without property degradation.
     - Recycling aluminum uses only about 5% of the energy required to produce new aluminum.
 
-Recyclability:
+### Recyclability:
 
 - PLA: Biodegradable and recyclable under specific conditions, but infrastructure limitations reduce practical recyclability.
 - 6061 T6 Aluminum: Highly recyclable with a well-established process, conserving significant energy and maintaining material properties.
