@@ -36,7 +36,7 @@ Compare what we need vs what we have from the method
 # Elasticity of the parts
 
 #### 3D Printing PLA:
-- Young's Modulus: 3.5 MPa
+- Young's Modulus: 3120 MPa
 - Elongation at break: Not found yet
 - Melting Point: 145-160 ˚C
 
