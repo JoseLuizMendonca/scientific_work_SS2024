@@ -73,7 +73,7 @@ Aesthetic and Visual Appearance
 - Finish: Matte to semi-glossy
 - Color Options: White/Transparent (Colours vary widely depending on the filament you use)
 
-6061-T6 Aluminum:
+### 6061-T6 Aluminum:
 
 Finish: Naturally shiny, can be polished
 Color: Typically silver-grey, anodizable in various colors
