@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber Scientific_work_ss2024"] 1717252462.64872 "Scientific_work_ss2024.bcf" "Scientific_work_ss2024.bbl" "Scientific_work_ss2024" 1717252711.99511 0
-  "Scientific_work_ss2024.bcf" 1717252711.50716 107992 5963d57a1bf257f1d5b7722b0486b3e1 "xelatex"
+["biber Scientific_work_ss2024"] 0 "Scientific_work_ss2024.bcf" "Scientific_work_ss2024.bbl" "Scientific_work_ss2024" 1717265081.93115 -1
+  "Scientific_work_ss2024.bcf" 1717265081.46322 107988 2bb852252d22cf27576c35b7f06a6ac5 "xelatex"
   (generated)
   "Scientific_work_ss2024.bbl"
   "Scientific_work_ss2024.blg"
   (rewritten before read)
-["xdvipdfmx"] 1717252711.61258 "Scientific_work_ss2024.xdv" "Scientific_work_ss2024.pdf" "Scientific_work_ss2024" 1717252711.99827 0
-  "Scientific_work_ss2024.xdv" 1717252711.50716 8868 f4fe4d880a50192c7224e5eacc8e53fe "xelatex"
+["xdvipdfmx"] 1717265081.56172 "Scientific_work_ss2024.xdv" "Scientific_work_ss2024.pdf" "Scientific_work_ss2024" 1717265081.93377 0
+  "Scientific_work_ss2024.xdv" 1717265081.46322 15824 10794e37fb6a443a29e82a1691722172 "xelatex"
   (generated)
   "Scientific_work_ss2024.pdf"
   (rewritten before read)
-["xelatex"] 1717252708.61496 "/home/joseluiz/personal/github/scientific_work_SS2024/src/Scientific_work_ss2024.tex" "Scientific_work_ss2024.xdv" "Scientific_work_ss2024" 1717252711.99518 0
-  "/home/joseluiz/personal/github/scientific_work_SS2024/src/Scientific_work_ss2024.tex" 1717252708.48717 3398 40687937418f76927650ceb0a9616c2e ""
+["xelatex"] 1717265078.66732 "/home/joseluiz/personal/github/scientific_work_SS2024/src/Scientific_work_ss2024.tex" "Scientific_work_ss2024.xdv" "Scientific_work_ss2024" 1717265081.93123 0
+  "/home/joseluiz/personal/github/scientific_work_SS2024/src/Scientific_work_ss2024.tex" 1717265078.53922 3683 b288bfed1d8a18ca38945071184f31fb ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -57,11 +57,8 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolF7.tfm" 1177804218 928 daf8dc6a1b5f9d77266c8bca20202576 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolF8.tfm" 1177804218 928 0e527254486d1fce95b15cf78ee2580a ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
-  "/usr/local/texlive/2024/texmf-dist/tex/generic/babel-english/british.ldf" 1496785618 2764 33eb54e29f49ae828edec697cf357f2c ""
-  "/usr/local/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf" 1496785618 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel.sty" 1711748144 146574 57b2d0b841f5ba351d3d7e0a1fbdd58a ""
-  "/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-british.tex" 1656274800 339 27c5ef882bc0045c88e06d04f3637799 ""
-  "/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-en-GB.ini" 1661803479 4126 4359a8eb745455d146a2691107563d97 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/generic/babel/nil.ldf" 1711748144 2704 8653118f764997a55b578b24571df1a5 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/babel/xebabel.def" 1711748144 19193 a7cf179d399bc1a403fa7d742e14dfc4 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty" 1576016050 33961 6b5c75130e435b2bfdb9f480a09a39f9 ""
@@ -103,8 +100,6 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-natbib.def" 1541279461 2190 4b4fcc6752fa7201177431e523c40d74 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-unicode.def" 1609451401 3786 1f89d14780f0ad89ab94652b37f4e9b8 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx" 1678141846 4629 cda468e8a0b1cfa0f61872e171037a4b ""
-  "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/british.lbx" 1711143581 2973 0c48067286210e100b5168eea48500e0 ""
-  "/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx" 1711143581 40021 daa5a82ed0967f3ac4b77cb8384cac55 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def" 1702241854 5654 f5f3b5a1e60310c5a2ac1fad700b131a ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bookmark.sty" 1702241854 18245 97e6be180cf07bb6f7008cfdaaecfce5 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty" 1579038678 6078 f1cb470c9199e7110a27851508ed7a5c ""
@@ -119,12 +114,9 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.sty" 1712263026 62767 e79d6d7a989e7da62dcf3d0a65c1faee ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/datetime/datetime-defaults.sty" 1427500626 4105 4c80eaed8cd4f9a80cc6244c0adeb81f ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/datetime/datetime.sty" 1427500626 27587 b023ffe1328fa89e7f133201d87029de ""
-  "/usr/local/texlive/2024/texmf-dist/tex/latex/datetime/dt-british.def" 1427500626 2988 4afb6e765ea7e663f6d72fdf41d5637f ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty" 1683144721 11876 6ef493863ae0d7a984706973240c2237 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty" 1137110151 6749 16d2656a1984957e674b149555f1ea1d ""
-  "/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fc-british.def" 1580337424 3459 9ab72da6be84338dc72a262720d7f6ad ""
-  "/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fc-english.def" 1580337424 14353 f66b7dd28616119c2519cd5cc4dcae14 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fcnumparser.sty" 1580337424 12389 43a81443714469abac77ce09f44ad2e2 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fcprefix.sty" 1580337424 12098 5c732241af77b5f0e56e640b7d538395 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fmtcount.sty" 1582668197 30872 ed70d543c537f19c96fc753321f1c3cc ""
@@ -190,7 +182,6 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty" 1698869629 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tools/calc.sty" 1698869629 10214 547fd4d29642cb7c80bf54b49d447f01 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/tools/tabularx.sty" 1698869629 7147 d45559f8a31b8c53ada0640516660003 ""
-  "/usr/local/texlive/2024/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl" 1644096163 5588 0c1628daf15f4411ff1f463114c634a3 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/translations/translations.sty" 1644096163 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/wrapfig/wrapfig.sty" 1137111090 26220 3701aebf80ccdef248c0c20dd062fea9 ""
@@ -199,22 +190,24 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1710714342 41663 c82a74d8036de408d74af2c8ae75c7e5 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1712653276 10850876 1e25def292bf9f8e5f40af08f28dfb26 ""
   "/usr/local/texlive/2024/texmf.cnf" 1712653202.15233 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Scientific_work_ss2024.aux" 1717252711.49516 575 621993151f93cf6bb1cd429172073c50 "xelatex"
-  "Scientific_work_ss2024.bbl" 1717252463.53637 0 d41d8cd98f00b204e9800998ecf8427e "biber Scientific_work_ss2024"
-  "Scientific_work_ss2024.out" 1717252711.33516 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "Scientific_work_ss2024.run.xml" 1717252711.50716 2450 5d591aeeb6c6189878674cef30bb1669 "xelatex"
-  "Scientific_work_ss2024.tex" 1717252708.48717 3398 40687937418f76927650ceb0a9616c2e ""
+  "Scientific_work_ss2024.aux" 1717265081.45922 1136 b3d7149563e84489bc6c4ec92f99d9c0 "xelatex"
+  "Scientific_work_ss2024.bbl" 1717264632.49194 0 d41d8cd98f00b204e9800998ecf8427e "biber Scientific_work_ss2024"
+  "Scientific_work_ss2024.out" 1717265081.31122 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "Scientific_work_ss2024.run.xml" 1717265081.46322 2388 2f668fafbbd1f64c4811167d9c717e02 "xelatex"
+  "Scientific_work_ss2024.tex" 1717265078.53922 3683 b288bfed1d8a18ca38945071184f31fb ""
+  "Scientific_work_ss2024.toc" 1717265081.46322 418 7ba011baf84228f52f3fe49adc70dd2f "xelatex"
   "rwubase.sty" 1684330896 160 e0a6e136128bd47a55a02e77521dbba3 ""
   "rwudefs.sty" 1684330896 544 16ea0fbf1cfb8530af341dbbe57a1974 ""
   "rwufont.sty" 1684330896 1444 5a45df1ee494d232b1da6000b06209ef ""
   "rwukoma.sty" 1684330896 3472 f1ba0b04c72f412cf9c59c28394bc29b ""
   "rwulogo.eps" 1684330896 62202 6d41966477746b9b2cd7cb720579034e ""
-  "rwuthesis.cls" 1684330896 5430 e3a60f9bfc507428b33e19b3521b9d25 ""
+  "rwuthesis.cls" 1717265074.27523 7490 cacccccb03a37bb09bc12de85224de2a ""
   (generated)
   "Scientific_work_ss2024.aux"
   "Scientific_work_ss2024.bcf"
   "Scientific_work_ss2024.log"
   "Scientific_work_ss2024.out"
   "Scientific_work_ss2024.run.xml"
+  "Scientific_work_ss2024.toc"
   "Scientific_work_ss2024.xdv"
   (rewritten before read)

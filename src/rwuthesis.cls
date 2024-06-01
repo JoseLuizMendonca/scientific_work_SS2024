@@ -84,9 +84,14 @@
 \DeclareTranslation{German}{matriculation-number}{Matrikelnummer}
 
 % Add the translation for the report type
-\DeclareTranslationFallback{rwuthesis-report}{Report}
-\DeclareTranslation{English}{rwuthesis-report}{Report}
-\DeclareTranslation{German}{rwuthesis-report}{Bericht}
+\DeclareTranslationFallback{rwuthesis-report}{Scientific Work}
+\DeclareTranslation{English}{rwuthesis-report}{Scientific Work}
+\DeclareTranslation{German}{rwuthesis-report}{Wissenschaftliche Arbeit}
+
+% Add the translation for the supervisor
+\DeclareTranslationFallback{rwuthesis-supervisor}{Supervising Professor}
+\DeclareTranslation{English}{rwuthesis-supervisor}{Supervising Professor}
+\DeclareTranslation{German}{rwuthesis-supervisor}{Betreuender Professor}
 
 \newcommand{\authormail}[1]{\newcommand{\rwuthesis@authormail}{#1}}
 \newcommand{\fordegree}[1]{\newcommand{\rwuthesis@fordegree}{#1}}
@@ -97,6 +102,15 @@
 \newcommand{\degreecourse}[1]{\newcommand{\rwuthesis@degreecourse}{#1}}
 \newcommand{\faculty}[1]{\newcommand{\rwuthesis@faculty}{#1}}
 \newcommand{\matnumber}[1]{\newcommand{\rwuthesis@matnumber}{#1}}
+
+% New command for adding second author
+\newcommand{\secondauthor}[1]{\newcommand{\rwuthesis@secondauthor}{#1}}
+\newcommand{\secondauthormail}[1]{\newcommand{\rwuthesis@secondauthormail}{#1}}
+\newcommand{\secondmatnumber}[1]{\newcommand{\rwuthesis@secondmatnumber}{#1}}
+
+% New command for adding supervisor
+\newcommand{\supervisor}[1]{\newcommand{\rwuthesis@supervisor}{#1}}
+\newcommand{\supervisormail}[1]{\newcommand{\rwuthesis@supervisormail}{#1}}
 
 \renewcommand{\maketitle}{%
 	\begin{titlepage}
@@ -113,19 +127,22 @@
 		\endgroup
 
 		\vfill
-
 		\ifthenelse{\equal{\rwuthesis@type}{bachelor}}{%
 			\textbf{\LARGE\GetTranslation{rwuthesis-bachelor-thesis}}
 		}{%
-			\textbf{\LARGE\GetTranslation{rwuthesis-master-thesis}}
+			\ifthenelse{\equal{\rwuthesis@type}{report}}{%
+				\textbf{\LARGE\GetTranslation{rwuthesis-report}}
+			}{%
+				\textbf{\LARGE\GetTranslation{rwuthesis-master-thesis}}
+			}
 		}
 
 		\textbf{\Large\@title}
 
 		\vfill
 
-		\GetTranslation{rwuthesis-to-attain}\\
-		\rwuthesis@fordegree
+		%\GetTranslation{rwuthesis-to-attain}\\
+		%\rwuthesis@fordegree
 
 		\vfill
 
@@ -143,19 +160,55 @@
 			<\url{\rwuthesis@authormail}>
 		}
 
+		\vfill
+
+		% add second author
+		\textbf{\Large\rwuthesis@secondauthor}
+		\ifthenelse{\isundefined{\rwuthesis@secondauthormail}}{%
+			\ClassWarning{rwuthesis}{\protect\secondauthormail\space undefined, no mail address on title page}
+		}{%
+			\\
+          \ifthenelse{\isundefined{\rwuthesis@secondmatnumber}}{%
+          }{
+          \GetTranslation{matriculation-number}: \rwuthesis@secondmatnumber\\
+          }
+			<\url{\rwuthesis@secondauthormail}>
+		}
+
+		\vfill
+	
+	
+
 		\@date
 
 		\vfill
 
+
+		% Check if it is a report or a thesis
 		\begin{tabular}{@{ }ll}
-			\GetTranslation{rwuthesis-first-reviewer}: & \rwuthesis@firstreviewer
+			\ifthenelse{\isundefined{\rwuthesis@firstreviewer}}{}{
+				\GetTranslation{rwuthesis-first-reviewer}: & \rwuthesis@firstreviewer
+			}
 			\ifthenelse{\isundefined{\rwuthesis@firstreviewermail}}{}{
 				<\url{\rwuthesis@firstreviewermail}>%
+				
 			}
 			\\
-			\GetTranslation{rwuthesis-second-reviewer}: & \rwuthesis@secondreviewer
+			\ifthenelse{\isundefined{\rwuthesis@secondreviewer}}{}{
+				\GetTranslation{rwuthesis-second-reviewer}: & \rwuthesis@secondreviewer
+			}
 			\ifthenelse{\isundefined{\rwuthesis@secondreviewermail}}{}{
 				<\url{\rwuthesis@secondreviewermail}>%
+				%\vfill
+			}
+			%% add supervisor
+			\\
+			\ifthenelse{\isundefined{\rwuthesis@supervisor}}{}{
+				\GetTranslation{rwuthesis-supervisor}: & \rwuthesis@supervisor
+			}
+			\ifthenelse{\isundefined{\rwuthesis@supervisormail}}{}{
+				<\url{\rwuthesis@supervisormail}>%
+				%\vfill
 			}
 		\end{tabular}
 	\end{titlepage}

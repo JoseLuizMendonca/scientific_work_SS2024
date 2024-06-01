@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  1 JUN 2024 16:38
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  1 JUN 2024 20:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -262,7 +262,7 @@ Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
 ))
 Package rwukoma Info: Setting up for KOMA script class scrreprt on input line 32.
 )
-Class rwuthesis Info: Thesis type is master on input line 49.
+Class rwuthesis Info: Thesis type is report on input line 49.
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2024/03/29 v24.3 The Babel package
 \babel@savecnt=\count277
@@ -271,20 +271,12 @@ Package: babel 2024/03/29 v24.3 The Babel package
  (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/xebabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count278
- (/usr/local/texlive/2024/texmf-dist/tex/generic/babel-english/british.ldf
-Language: british 2017/06/06 v3.3r English support from the babel system
- (/usr/local/texlive/2024/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language23). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language23). Reported on input line 108.
-))) (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/locale/en/babel-british.tex
-Package babel Info: Importing font and identification data for british
-(babel)             from babel-en-GB.ini. Reported on input line 11.
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package babel Info: You haven't specified a language as a class or package
+(babel)             option. I'll load 'nil'. Reported on input line 4267.
+ (/usr/local/texlive/2024/texmf-dist/tex/generic/babel/nil.ldf
+Language: nil 2024/03/29 v24.3 Nil language
+\l@nil=\language90
+)) (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
  (/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
@@ -611,7 +603,7 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 \bibhang=\skip80
 \blx@bcfin=\read3
 \blx@bcfout=\write4
-\blx@langwohyphens=\language90
+\blx@langwohyphens=\language91
 \c@mincomprange=\count370
 \c@maxcomprange=\count371
 \c@mincompwidth=\count372
@@ -946,15 +938,6 @@ Package: fcnumparser 2017/06/15
 ))
 \c@padzeroesN=\count469
 \fc@tmpcatcode=\count470
- (/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fc-english.def
-Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
-File: fc-english.def 2016/01/12
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/fmtcount/fc-british.def
-Invalid UTF-8 byte or sequence at line 10 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 22 replaced by U+FFFD.
-File: fc-british.def 2013/08/17
-)
 \@DT@modctr=\count471
 \@ordinalctr=\count472
 \@orgargctr=\count473
@@ -982,9 +965,6 @@ Package datetime Info: No datetime.cfg file found, using default settings on inp
 \dayofyear=\count491
 \dayofweek=\count492
 LaTeX Info: Redefining \today on input line 736.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/datetime/dt-british.def
-File: dt-british.def 2013/09/10
-)
 \dt@a=\toks36
 \dt@b=\toks37
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
@@ -997,8 +977,12 @@ Package chngcntr Info: \counterwithout already defined.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'british'.
 
+
+Package csquotes Warning: No style for language 'nil'.
+(csquotes)                Using fallback style on input line 97.
+
+Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 
 LaTeX Warning: Unused global option(s):
     [foot=true,colorhead=true].
@@ -1006,45 +990,31 @@ LaTeX Warning: Unused global option(s):
 (./Scientific_work_ss2024.aux)
 \openout1 = `Scientific_work_ss2024.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 92.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 97.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 97.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
-File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
-)
-Package scrbase Info: activating british \abstractname on input line 92.
-Package scrbase Info: activating british \partname on input line 92.
-Package scrbase Info: activating british \chaptername on input line 92.
-Package scrbase Info: activating british \appendixname on input line 92.
-Package scrbase Info: activating british \figurename on input line 92.
-Package scrbase Info: activating british \tablename on input line 92.
-Package scrbase Info: activating british \contentsname on input line 92.
-Package scrbase Info: activating british \listfigurename on input line 92.
-Package scrbase Info: activating british \listtablename on input line 92.
-Package scrbase Info: activating british \bibname on input line 92.
-Package scrbase Info: activating british \indexname on input line 92.
-Package hyperref Info: Link coloring ON on input line 92.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 97.
+LaTeX Font Info:    ... okay on input line 97.
+Package hyperref Info: Link coloring ON on input line 97.
  (./Scientific_work_ss2024.out) (./Scientific_work_ss2024.out)
 \@outlinefile=\write5
 \openout5 = `Scientific_work_ss2024.out'.
@@ -1056,7 +1026,7 @@ Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           `bookmarkpackage=false' before \begin{document} and
 (scrreprt)           you can avoid this message adding:
 (scrreprt)             \usepackage{bookmark}
-(scrreprt)           before \begin{document} on input line 92.
+(scrreprt)           before \begin{document} on input line 97.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
@@ -1072,19 +1042,17 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 ))
 \c@lstlisting=\count494
-Package tocbasic Info: setting babel extension for `lol' on input line 92.
+Package tocbasic Info: setting babel extension for `lol' on input line 97.
 \scr@dte@lstlisting@maxnumwidth=\skip98
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-Package biblatex Info: Trying to load language 'british'...
-Package biblatex Info: ... file 'british.lbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/british.lbx
-File: british.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
-))
+Package biblatex Info: Trying to load language 'nil'...
+Package biblatex Info: ... file 'nil.lbx' not found.
+
+
+Package biblatex Warning: Language 'nil' not supported.
+(biblatex)                Using dummy definitions on input line 97.
+
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
@@ -1093,22 +1061,50 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Scientific_work_ss2024.bbl' found.
- (./Scientific_work_ss2024.bbl)
-Package biblatex Info: Reference section=0 on input line 92.
-Package biblatex Info: Reference segment=0 on input line 92.
+(./Scientific_work_ss2024.bbl)
+Package biblatex Info: Reference section=0 on input line 97.
+Package biblatex Info: Reference segment=0 on input line 97.
 File: rwulogo.eps Graphic file (type eps)
 <rwulogo.eps>
 
-Overfull \hbox (35.9088pt too wide) in paragraph at lines 94--94
-[][] 
+Overfull \hbox (4.93413pt too wide) in paragraph at lines 99--99
+[]\TU/BarlowSemiCondensed-Regular.ttf(0)/b/n/17.28 PLA Additive Manufacturing Chassis Parts for Small Scale Rovers 
  []
+
+
+Package datetime Warning: No month names provided for language 'nil' on input line 99.
 
 [1
 
 
 
-] [2
+] (./Scientific_work_ss2024.toc)
+\tf@toc=\write6
+\openout6 = `Scientific_work_ss2024.toc'.
 
+ [2
+
+
+
+]
+chapter 1.
+[3
+
+]
+chapter 2.
+[4
+
+]
+chapter 3.
+[5
+
+]
+chapter 4.
+[6
+
+]
+chapter 5.
+[7
 
 ] 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -1124,12 +1120,12 @@ Package logreq Info: Writing requests to 'Scientific_work_ss2024.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34298 strings out of 474761
- 699075 string characters out of 5757510
- 1927145 words of memory out of 5000000
- 56006 multiletter control sequences out of 15000+600000
+ 33196 strings out of 474761
+ 669568 string characters out of 5757510
+ 1926145 words of memory out of 5000000
+ 54929 multiletter control sequences out of 15000+600000
  571637 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 139i,20n,149p,11027b,3836s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 139i,20n,149p,11018b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_ss2024.xdv (2 pages, 8868 bytes).
+Output written on Scientific_work_ss2024.xdv (7 pages, 15824 bytes).
