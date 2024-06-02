@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  2 JUN 2024 14:38
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  2 JUN 2024 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1121,28 +1121,33 @@ Overfull \hbox (11.99045pt too wide) in paragraph at lines 43--48
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 is crucial, 6061-T6 aluminum’s durability and reliability make it essential. This comparison emphasizes
  []
 
-[6])
-Overfull \hbox (20.2211pt too wide) in paragraph at lines 66--129
+[6]
+Overfull \hbox (20.2211pt too wide) in paragraph at lines 66--73
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 decreased elasticity, which allowed it to bear larger loads without experiencing significant deformation.
  []
 
 
-Overfull \hbox (12.8777pt too wide) in paragraph at lines 66--129
+Overfull \hbox (12.8777pt too wide) in paragraph at lines 66--73
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 different uses for which each material was appropriate. PLA was made for the use of rapid prototyping
  []
 
 
-Overfull \hbox (11.18913pt too wide) in paragraph at lines 66--129
+Overfull \hbox (11.18913pt too wide) in paragraph at lines 66--73
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 and scenarios where it required some flexibility because of its lower modulus and increased elasticity.
  []
 
-[7]
+)
+Overfull \hbox (15.20164pt too wide) in paragraph at lines 76--129
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 deposition used in FDM (Fused Deposition Modelling) technology (link). The print resolution determined
+ []
+
+[7] [8]
 chapter 4.
-[8
+[9
 
 ]
 chapter 5.
-[9
+[10
 
 ] 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -1158,12 +1163,12 @@ Package logreq Info: Writing requests to 'Scientific_work_SS2024.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33560 strings out of 474761
- 676439 string characters out of 5757510
- 1934145 words of memory out of 5000000
- 55286 multiletter control sequences out of 15000+600000
+ 33561 strings out of 474761
+ 676444 string characters out of 5757510
+ 1936145 words of memory out of 5000000
+ 55287 multiletter control sequences out of 15000+600000
  571637 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  139i,20n,149p,11018b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.xdv (9 pages, 82952 bytes).
+Output written on Scientific_work_SS2024.xdv (10 pages, 103808 bytes).
