@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  2 JUN 2024 14:29
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  2 JUN 2024 14:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1106,28 +1106,43 @@ chapter 2.
 chapter 3.
 (./results.tex [5
 
-])
-Overfull \hbox (0.34439pt too wide) in paragraph at lines 43--129
+]
+Overfull \hbox (0.34439pt too wide) in paragraph at lines 43--48
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 The wide range in tensile strength between PLA and 6061-T6 aluminum shows the need for choosing
  []
 
 
-Overfull \hbox (9.63844pt too wide) in paragraph at lines 43--129
+Overfull \hbox (9.63844pt too wide) in paragraph at lines 43--48
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 limits restrict its application to less demanding structural tasks. Whereas, when mechanical strength
  []
 
 
-Overfull \hbox (11.99045pt too wide) in paragraph at lines 43--129
+Overfull \hbox (11.99045pt too wide) in paragraph at lines 43--48
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 is crucial, 6061-T6 aluminum’s durability and reliability make it essential. This comparison emphasizes
  []
 
-[6]
+[6])
+Overfull \hbox (20.2211pt too wide) in paragraph at lines 66--129
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 decreased elasticity, which allowed it to bear larger loads without experiencing significant deformation.
+ []
+
+
+Overfull \hbox (12.8777pt too wide) in paragraph at lines 66--129
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 different uses for which each material was appropriate. PLA was made for the use of rapid prototyping
+ []
+
+
+Overfull \hbox (11.18913pt too wide) in paragraph at lines 66--129
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 and scenarios where it required some flexibility because of its lower modulus and increased elasticity.
+ []
+
+[7]
 chapter 4.
-[7
+[8
 
 ]
 chapter 5.
-[8
+[9
 
 ] 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -1143,12 +1158,12 @@ Package logreq Info: Writing requests to 'Scientific_work_SS2024.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33559 strings out of 474761
- 676434 string characters out of 5757510
+ 33560 strings out of 474761
+ 676439 string characters out of 5757510
  1934145 words of memory out of 5000000
- 55285 multiletter control sequences out of 15000+600000
+ 55286 multiletter control sequences out of 15000+600000
  571637 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  139i,20n,149p,11018b,563s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.xdv (8 pages, 62688 bytes).
+Output written on Scientific_work_SS2024.xdv (9 pages, 82952 bytes).
