@@ -35,15 +35,17 @@
 % Bibliography
 \usepackage{csquotes}
 \usepackage{comment}
-\usepackage[ 
+%\usepackage[ 
 % https://www.overleaf.com/learn/latex/Bibliography_management_with_biblatex#Reference_guide
 % https://www.overleaf.com/learn/latex/Natbib_citation_styles
 % https://www.bibtex.com/e/entry-types/
-    backend=biber, % biber backend
-    natbib=true, % customising citations
-    sorting=nty, % sort name, title, year
-    style=numeric % https://de.overleaf.com/learn/latex/Biblatex_bibliography_styles
-]{biblatex}
+ %   backend=biber, % biber backend
+ %   natbib=true, % customising citations
+ %   sorting=nty, % sort name, title, year
+ %   style=numeric % https://de.overleaf.com/learn/latex/Biblatex_bibliography_styles
+%]{biblatex}
+\usepackage{biblatex}
+\addbibresource{source.bib}
 
 % math packages
 % \usepackage{amsfonts}
@@ -129,7 +131,7 @@
 
 \chapter{Discussion}
     \input{discussion.tex}
-    
+
 \chapter{Conclusion}
     \input{conclusion.tex}
 
@@ -137,7 +139,8 @@
 
 % test
 
-%\sloppy % set sloppy tolerances
-% \printbibliography[heading=bibintoc]
+% add bibliography
+\newpage
+\printbibliography
 %\printbibliography[keyword=pic, title={Pictures only}]
 \end{document}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  2 JUN 2024 20:11
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  2 JUN 2024 20:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -620,8 +620,6 @@ Package biblatex Info: ... file 'blx-dm.def' found.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-dm.def
 File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
 )
-Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count375
@@ -731,12 +729,6 @@ File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
 \c@smartand=\count451
-)
-Package biblatex Info: Trying to load natbib compatibility...
-Package biblatex Info: ... file 'blx-natbib.def' found.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/biblatex/blx-natbib.def
-File: blx-natbib.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -988,7 +980,7 @@ Package csquotes Info: Adjusting default style.
 
 
 Package csquotes Warning: No style for language 'nil'.
-(csquotes)                Using fallback style on input line 100.
+(csquotes)                Using fallback style on input line 102.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 
@@ -998,31 +990,31 @@ LaTeX Warning: Unused global option(s):
 (./Scientific_work_SS2024.aux)
 \openout1 = `Scientific_work_SS2024.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 100.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 100.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 102.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 102.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 100.
-LaTeX Font Info:    ... okay on input line 100.
-Package hyperref Info: Link coloring ON on input line 100.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+Package hyperref Info: Link coloring ON on input line 102.
  (./Scientific_work_SS2024.out) (./Scientific_work_SS2024.out)
 \@outlinefile=\write5
 \openout5 = `Scientific_work_SS2024.out'.
@@ -1034,7 +1026,7 @@ Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           `bookmarkpackage=false' before \begin{document} and
 (scrreprt)           you can avoid this message adding:
 (scrreprt)             \usepackage{bookmark}
-(scrreprt)           before \begin{document} on input line 100.
+(scrreprt)           before \begin{document} on input line 102.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
@@ -1050,7 +1042,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 ))
 \c@lstlisting=\count496
-Package tocbasic Info: setting babel extension for `lol' on input line 100.
+Package tocbasic Info: setting babel extension for `lol' on input line 102.
 \scr@dte@lstlisting@maxnumwidth=\skip99
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -1059,7 +1051,7 @@ Package biblatex Info: ... file 'nil.lbx' not found.
 
 
 Package biblatex Warning: Language 'nil' not supported.
-(biblatex)                Using dummy definitions on input line 100.
+(biblatex)                Using dummy definitions on input line 102.
 
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -1070,17 +1062,17 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Scientific_work_SS2024.bbl' found.
 (./Scientific_work_SS2024.bbl)
-Package biblatex Info: Reference section=0 on input line 100.
-Package biblatex Info: Reference segment=0 on input line 100.
+Package biblatex Info: Reference section=0 on input line 102.
+Package biblatex Info: Reference segment=0 on input line 102.
 File: rwulogo.eps Graphic file (type eps)
 <rwulogo.eps>
 
-Overfull \hbox (4.93413pt too wide) in paragraph at lines 102--102
+Overfull \hbox (4.93413pt too wide) in paragraph at lines 104--104
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/b/n/17.28 PLA Additive Manufacturing Chassis Parts for Small Scale Rovers 
  []
 
 
-Package datetime Warning: No month names provided for language 'nil' on input line 102.
+Package datetime Warning: No month names provided for language 'nil' on input line 104.
 
 [1
 
@@ -1276,13 +1268,17 @@ Overfull \hbox (27.24435pt too wide) in paragraph at lines 14--17
  []
 
 )
-Overfull \hbox (11.23901pt too wide) in paragraph at lines 18--135
+Overfull \hbox (11.23901pt too wide) in paragraph at lines 18--137
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 between PLA and 6061-T6 aluminium; balancing aspects such as physical properties, cost, production
  []
 
 [17
 
-] 
+]
+
+LaTeX Warning: Empty bibliography on input line 144.
+
+
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Scientific_work_SS2024.aux)
  ***********
@@ -1296,10 +1292,10 @@ Package logreq Info: Writing requests to 'Scientific_work_SS2024.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33579 strings out of 474761
- 676693 string characters out of 5757510
+ 33539 strings out of 474761
+ 676015 string characters out of 5757510
  1934145 words of memory out of 5000000
- 55299 multiletter control sequences out of 15000+600000
+ 55262 multiletter control sequences out of 15000+600000
  571637 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  139i,20n,149p,11018b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s

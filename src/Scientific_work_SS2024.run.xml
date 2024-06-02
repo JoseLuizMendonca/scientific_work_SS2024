@@ -54,7 +54,6 @@
       <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
-      <file>blx-natbib.def</file>
       <file>standard.bbx</file>
       <file>numeric.bbx</file>
       <file>numeric.cbx</file>
@@ -78,6 +77,9 @@
     </provides>
     <requires type="dynamic">
       <file>Scientific_work_SS2024.bcf</file>
+    </requires>
+    <requires type="editable">
+      <file>source.bib</file>
     </requires>
   </external>
 </requests>
