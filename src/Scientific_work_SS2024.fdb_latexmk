@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber Scientific_work_SS2024"] 1717327792.93498 "Scientific_work_SS2024.bcf" "Scientific_work_SS2024.bbl" "Scientific_work_SS2024" 1717329586.77945 0
-  "Scientific_work_SS2024.bcf" 1717329586.25799 107988 2bb852252d22cf27576c35b7f06a6ac5 "xelatex"
+["biber Scientific_work_SS2024"] 1717327792.93498 "Scientific_work_SS2024.bcf" "Scientific_work_SS2024.bbl" "Scientific_work_SS2024" 1717331356.78138 0
+  "Scientific_work_SS2024.bcf" 1717331356.25971 107988 2bb852252d22cf27576c35b7f06a6ac5 "xelatex"
   (generated)
   "Scientific_work_SS2024.bbl"
   "Scientific_work_SS2024.blg"
   (rewritten before read)
-["xdvipdfmx"] 1717329586.35807 "Scientific_work_SS2024.xdv" "Scientific_work_SS2024.pdf" "Scientific_work_SS2024" 1717329586.78225 0
-  "Scientific_work_SS2024.xdv" 1717329586.25799 30324 e947b863590c6140ae6ff24f0939f1d3 "xelatex"
+["xdvipdfmx"] 1717331356.37079 "Scientific_work_SS2024.xdv" "Scientific_work_SS2024.pdf" "Scientific_work_SS2024" 1717331356.78405 0
+  "Scientific_work_SS2024.xdv" 1717331356.26371 62688 f135516c6249fffd35108345e54d2d16 "xelatex"
   (generated)
   "Scientific_work_SS2024.pdf"
   (rewritten before read)
-["xelatex"] 1717329583.21813 "/home/joseluiz/personal/github/scientific_work_SS2024/src/Scientific_work_SS2024.tex" "Scientific_work_SS2024.xdv" "Scientific_work_SS2024" 1717329586.77954 0
-  "/home/joseluiz/personal/github/scientific_work_SS2024/src/Scientific_work_SS2024.tex" 1717329583.08601 6014 5ca6e6f93d03fa23cac04e7afd39cb44 ""
+["xelatex"] 1717331353.17069 "/home/joseluiz/personal/github/scientific_work_SS2024/src/Scientific_work_SS2024.tex" "Scientific_work_SS2024.xdv" "Scientific_work_SS2024" 1717331356.78146 0
+  "/home/joseluiz/personal/github/scientific_work_SS2024/src/Scientific_work_SS2024.tex" 1717331007.19633 6104 2c55da60acfb75040a7eb7c354391d92 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -114,6 +114,7 @@
   "/usr/local/texlive/2024/texmf-dist/tex/latex/csquotes/csquotes.sty" 1712263026 62767 e79d6d7a989e7da62dcf3d0a65c1faee ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/datetime/datetime-defaults.sty" 1427500626 4105 4c80eaed8cd4f9a80cc6244c0adeb81f ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/datetime/datetime.sty" 1427500626 27587 b023ffe1328fa89e7f133201d87029de ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty" 1561238569 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty" 1683144721 11876 6ef493863ae0d7a984706973240c2237 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1601931149 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty" 1137110151 6749 16d2656a1984957e674b149555f1ea1d ""
@@ -190,12 +191,13 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1710714342 41663 c82a74d8036de408d74af2c8ae75c7e5 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1712653276 10850876 1e25def292bf9f8e5f40af08f28dfb26 ""
   "/usr/local/texlive/2024/texmf.cnf" 1712653202.15233 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Scientific_work_SS2024.aux" 1717329586.24999 1136 b3d7149563e84489bc6c4ec92f99d9c0 "xelatex"
+  "Scientific_work_SS2024.aux" 1717331356.25571 1315 0cd7b9a4cf745cfc37a1a8cc2f9c3369 "xelatex"
   "Scientific_work_SS2024.bbl" 1717327793.9433 0 d41d8cd98f00b204e9800998ecf8427e "biber Scientific_work_SS2024"
-  "Scientific_work_SS2024.out" 1717329586.10199 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "Scientific_work_SS2024.run.xml" 1717329586.25799 2388 dd5c0c4e83a7bea1802f1312e1b666d6 "xelatex"
-  "Scientific_work_SS2024.tex" 1717329583.08601 6014 5ca6e6f93d03fa23cac04e7afd39cb44 ""
-  "Scientific_work_SS2024.toc" 1717329586.25799 418 7ba011baf84228f52f3fe49adc70dd2f "xelatex"
+  "Scientific_work_SS2024.out" 1717331356.09171 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "Scientific_work_SS2024.run.xml" 1717331356.26371 2388 dd5c0c4e83a7bea1802f1312e1b666d6 "xelatex"
+  "Scientific_work_SS2024.tex" 1717331007.19633 6104 2c55da60acfb75040a7eb7c354391d92 ""
+  "Scientific_work_SS2024.toc" 1717331356.26371 494 54e2f504daed27085ce74c7714e0be07 "xelatex"
+  "results.tex" 1717331345.76372 3423 be2e560965d37501c1025b416bfdac66 ""
   "rwubase.sty" 1717321364.39841 160 e0a6e136128bd47a55a02e77521dbba3 ""
   "rwudefs.sty" 1717321364.39841 544 16ea0fbf1cfb8530af341dbbe57a1974 ""
   "rwufont.sty" 1717321364.39841 1444 5a45df1ee494d232b1da6000b06209ef ""

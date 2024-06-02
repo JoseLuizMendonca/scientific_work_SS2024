@@ -189,6 +189,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
@@ -367,6 +369,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolC5.tf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD5.tfm
+INPUT ./results.tex
+INPUT ./results.tex
+INPUT results.tex
 INPUT Scientific_work_SS2024.aux
 INPUT ./Scientific_work_SS2024.out
 INPUT ./Scientific_work_SS2024.out
