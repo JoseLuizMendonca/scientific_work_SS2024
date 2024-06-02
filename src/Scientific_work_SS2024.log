@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  2 JUN 2024 19:50
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  2 JUN 2024 20:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1226,11 +1226,61 @@ Overfull \hbox (2.59448pt too wide) in paragraph at lines 264--273
 
 [13]) [14]
 chapter 4.
+(./discussion.tex
+Overfull \hbox (8.32513pt too wide) in paragraph at lines 7--12
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 [Results] that aluminum alloys have greater tensile strength and endurance in structure applications.
+ []
+
+
+Overfull \hbox (2.64569pt too wide) in paragraph at lines 13--23
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 circumstances. One limitation of this study was its focus on a single type of 3D printer and particular
+ []
+
+
+Overfull \hbox (24.78568pt too wide) in paragraph at lines 13--23
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 take into account a wider range of 3D printing technologies and alternative aluminum alloys. Additionally,
+ []
+
+
+Overfull \hbox (15.28119pt too wide) in paragraph at lines 13--23
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 there has not been much research done on how environmental elements like humidity and temperature
+ []
+
+
+Overfull \hbox (7.37848pt too wide) in paragraph at lines 24--30
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 scenarios, more research is required. Studies may also look into the viability of hybrid manufacturing
+ []
+
+
+Overfull \hbox (6.00836pt too wide) in paragraph at lines 24--30
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 techniques, which combine the advantages of traditional manufacturing techniques with 3D printing
+ []
+
+
+Overfull \hbox (4.90836pt too wide) in paragraph at lines 24--30
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 environmentally friendly and biodegradable 3D printing materials may provide long-term substitutes
+ []
+
 [15
 
-]
+]) [16]
 chapter 5.
-[16
+(./conclusion.tex
+Overfull \hbox (5.56512pt too wide) in paragraph at lines 1--7
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 in terms of cost effectiveness and speedy prototyping, its use is restricted to low-stress applications
+ []
+
+
+Overfull \hbox (27.24435pt too wide) in paragraph at lines 14--17
+[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 To broaden the comparison, additional 3D printing processes and aluminium alloys should be investigated
+ []
+
+)
+Overfull \hbox (11.23901pt too wide) in paragraph at lines 18--135
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 between PLA and 6061-T6 aluminium; balancing aspects such as physical properties, cost, production
+ []
+
+[17
 
 ] 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -1246,12 +1296,12 @@ Package logreq Info: Writing requests to 'Scientific_work_SS2024.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33567 strings out of 474761
- 676479 string characters out of 5757510
+ 33579 strings out of 474761
+ 676693 string characters out of 5757510
  1934145 words of memory out of 5000000
- 55293 multiletter control sequences out of 15000+600000
+ 55299 multiletter control sequences out of 15000+600000
  571637 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  139i,20n,149p,11018b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.xdv (16 pages, 231936 bytes).
+Output written on Scientific_work_SS2024.xdv (17 pages, 277700 bytes).

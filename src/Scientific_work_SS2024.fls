@@ -372,6 +372,12 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD5.tf
 INPUT ./results.tex
 INPUT ./results.tex
 INPUT results.tex
+INPUT ./discussion.tex
+INPUT ./discussion.tex
+INPUT discussion.tex
+INPUT ./conclusion.tex
+INPUT ./conclusion.tex
+INPUT conclusion.tex
 INPUT Scientific_work_SS2024.aux
 INPUT ./Scientific_work_SS2024.out
 INPUT ./Scientific_work_SS2024.out
