@@ -2379,6 +2379,7 @@
     <bcf:citekey order="5" intorder="1">fusion_deposition_modeling</bcf:citekey>
     <bcf:citekey order="6" intorder="1">T6_roughness_wiki</bcf:citekey>
     <bcf:citekey order="7" intorder="1">pla_spec_ultimaker</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">aluminum_spec</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
