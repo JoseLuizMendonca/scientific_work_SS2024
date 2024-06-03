@@ -1,4 +1,3 @@
-
 Research Findings:
 This section has been split into nine sections to simplify the comparison of the different materials, and the respective manufacturing workflows associated with them, as well as the properties of the materials themselves. The nine sections are as follows:
 
@@ -21,7 +20,7 @@ This section has been split into nine sections to simplify the comparison of the
     tensile strength. A number of differences were found when 3D-printed PLA (polylactic acid) and 6061-T6 aluminum were compared, emphasizing the distinctive mechanical properties of each material.
 
     PLA is a bioplastic composed of renewable resources like corn starch and from a technical data sheet
-    made by BCN3D Technologies, an ultimate tensile strength of 70 MPa was reported from them. %(link) 
+    made by BCN3D Technologies, an ultimate tensile strength of 70 MPa was reported from them.\cite{pla_spec} 
     The value shown is the highest possible stress PLA can withstand before breaking down to tension. Due to
     PLA has a relatively lower tensile strength, being a polymer and having a layer-by-layer deposition while 3D printing, can result in the formation of weak areas along the contact points. Despite its lower
     tensile strength compared to metals, PLA can be used in situations where mechanical strength is not as important and instead can be used when specified components have to be made. Examples of what
@@ -29,7 +28,7 @@ This section has been split into nine sections to simplify the comparison of the
     
     %[insert images of Chassis Body Corners, Suspension Rocker & Boogie, Chassis-Rocker Connector]
 
-    On the other hand, according to a material data sheet published by ASM International %(link)
+    On the other hand, according to a material data sheet published by ASM International \cite{aluminum_spec}
     , 6061-T6 aluminum, a commonly used alloy in several industrial applications, showed a significantly greater
     ultimate tensile strength of 310 MPa. The composition of the alloy and the T6 tempering process, which
     includes heat treatment and artificial aging to improve the mechanical properties of the alloy, is responsible for its high tensile strength. For structural components and applications that need high
@@ -40,18 +39,13 @@ This section has been split into nine sections to simplify the comparison of the
 
     %[insert images of Shaft and Motor Cover working (can be an image from Fusion360)]
 
-    The wide range in tensile strength between PLA and 6061-T6 aluminum shows the need for choosing a material according to the particular requirements of a given application. PLA has advantages in terms of
-    manufacturing and environmental impact (mentioned in Section ….), but its mechanical limits restrict its
-    application to less demanding structural tasks. Whereas, when mechanical strength is crucial, 6061-T6
-    aluminum's durability and reliability make it essential. This comparison emphasizes how important it is
-    for engineering and industrial projects to consider both mechanical qualities and application requirements when choosing materials.
 
 \section{Elasticity}
 
     The Young's Modulus and Elasticity between PLA and 6061-T6 aluminum showed differences when
     compared to one another, which suggests their different uses and stress resistance.
 
-    Based on BCN3D Technologies' datasheet o PLA (link), the material has a Young's modulus of 3120 MPa (or
+    Based on BCN3D Technologies' PLA datasheet \cite{pla_spec}, the material has Young's modulus of 3120 MPa (or
     roughly 3.2 GPa). The fact that PLA is a semi-crystalline polymer that was intended to be flexible and
     simple to produce can be seen in its low modulus score (link). The elasticity of PLA was moderate,
     meaning that it could deform under stress and return to its former shape when the load was released.
@@ -60,24 +54,19 @@ This section has been split into nine sections to simplify the comparison of the
     for low-stress applications and prototyping where high rigidity was not a requirement. Elasticity in a
     material helped so that it could absorb some impact without permanent deformation, making it useful for
     lightweight and less structurally demanding parts.
-    6061-T6 aluminum had a much greater Young's modulus of 68.9 GPa (link). Compared to PLA, 6061-T6
+    6061-T6 aluminum had a much greater Young's modulus of 68.9 GPa \cite{aluminum_spec}. Compared to PLA, 6061-T6
     aluminum was stiffer and had a smaller chance to deform under stress, as shown by its higher modulus.
 
     The material was applicable in instances where rigidity and endurance were required due to its
     decreased elasticity, which allowed it to bear larger loads without experiencing significant deformation.
-    The contrast in elasticity and Young's modulus between PLA and 6061-T6 aluminum showed the different
-    uses for which each material was appropriate. PLA was made for the use of rapid prototyping and
-    scenarios where it required some flexibility because of its lower modulus and increased elasticity.
-    Whereas with 6061-T6 aluminum's higher modulus and low elasticity, it made it useful in high-stress
-    situations where strength and durability were expected.
-
+    The contrast in elasticity and Young's modulus between PLA and 6061-T6 aluminum showed the different uses for which each material was appropriate.
 \section{Surface Quality}
 
     For 3D printed PLA, the noticeable layer lines on the surface were a result of the layer-by-layer
-    deposition used in FDM (Fused Deposition Modelling) technology (link). The print resolution determined
+    deposition used in FDM (Fused Deposition Modelling) technology \cite{fusion_deposition_modeling}. The print resolution determined
     how smooth the surface was; surfaces with thinner layers at higher resolutions were smoother while at
     lower resolutions, layer lines were more apparent. To smooth and minimize roughness, post-processing
-    methods like coating and sanding (link) were used. Despite these initiatives, 3D-printed PLA had rougher
+    methods like coating and sanding were used. Despite these initiatives, 3D-printed PLA had rougher
     surfaces than machined metals.
 
         %[have 3x images of the Motor-Wheel Shaft to compare the smoothness / MK3 printed vs MK4 printed vs
@@ -85,7 +74,7 @@ This section has been split into nine sections to simplify the comparison of the
     %compare?
 
     Next, components were made of 6061-T6 aluminum, which had a smoother surface and very little roughness
-    (commonly at Ra 0.4 μm). The components were produced with a certain degree of surface consistency
+    (commonly at Ra 0.4 μm)\cite{T6_roughness_wiki}. The components were produced with a certain degree of surface consistency
     and homogeneity due to the machining process. Moreover, surface quality could be improved by applying
     anodizing and polishing treatments, which would add a layer of protection and improve the appearance.
     6061-T6 Aluminium has a glossy natural finish and could possibly be polished even more to get a mirror-
@@ -108,8 +97,8 @@ This section has been split into nine sections to simplify the comparison of the
     characteristics of 6061-T6 aluminum and 3D-printed PLA are apparent. Compared to metals, PLA has a
     lower melting point of 145 °C to 160 °C, which makes it acceptable for low-temperature applications. PLA
     components are also more prone to dimensional changes with temperature variations, which could
-    impact their stability and precision in some applications. The coefficient of thermal expansion (CTE) for PLA
-    ranges from 68 to 100 × 10⁻⁶/ °C. In addition, it loses its mechanical qualities and structural integrity due
+    impact their stability and precision in some applications. The coefficient of thermal expansion \cite{pla_spec_ultimaker} for PLA
+    ranges from 68 to 100 x 10⁻⁶/ °C. In addition, it loses its mechanical qualities and structural integrity due
     to thermal breakdown, which starts at temperatures higher than 200 °C.
     
     %(link)

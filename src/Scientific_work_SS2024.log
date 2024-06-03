@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  2 JUN 2024 20:33
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  3 JUN 2024 11:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1098,121 +1098,96 @@ chapter 2.
 chapter 3.
 (./results.tex [5
 
-]
-Overfull \hbox (0.34439pt too wide) in paragraph at lines 43--48
-[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 The wide range in tensile strength between PLA and 6061-T6 aluminum shows the need for choosing
- []
-
-
-Overfull \hbox (9.63844pt too wide) in paragraph at lines 43--48
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 limits restrict its application to less demanding structural tasks. Whereas, when mechanical strength
- []
-
-
-Overfull \hbox (11.99045pt too wide) in paragraph at lines 43--48
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 is crucial, 6061-T6 aluminum’s durability and reliability make it essential. This comparison emphasizes
- []
-
-[6]
-Overfull \hbox (20.2211pt too wide) in paragraph at lines 66--73
+] [6]
+Overfull \hbox (20.2211pt too wide) in paragraph at lines 60--63
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 decreased elasticity, which allowed it to bear larger loads without experiencing significant deformation.
  []
 
 
-Overfull \hbox (12.8777pt too wide) in paragraph at lines 66--73
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 different uses for which each material was appropriate. PLA was made for the use of rapid prototyping
- []
-
-
-Overfull \hbox (11.18913pt too wide) in paragraph at lines 66--73
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 and scenarios where it required some flexibility because of its lower modulus and increased elasticity.
- []
-
-
-Overfull \hbox (15.20164pt too wide) in paragraph at lines 76--82
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 deposition used in FDM (Fused Deposition Modelling) technology (link). The print resolution determined
+Overfull \hbox (6.76564pt too wide) in paragraph at lines 65--71
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 deposition used in FDM (Fused Deposition Modelling) technology [[][]2[][]]. The print resolution determined
  []
 
 [7]
 Missing character: There is no ⁻ (U+207B) in font [Fonts/BarlowSemiCondensed-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no ⁻ (U+207B) in font [Fonts/BarlowSemiCondensed-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
 
-Overfull \hbox (7.48836pt too wide) in paragraph at lines 117--121
+Overfull \hbox (7.48836pt too wide) in paragraph at lines 106--110
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 of thermal expansion of 6061-T6 aluminum, which is significantly lower than that of PLA and indicates
  []
 
 [8]
-Overfull \hbox (2.31044pt too wide) in paragraph at lines 135--142
+Overfull \hbox (2.31044pt too wide) in paragraph at lines 124--131
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 identical parts within predetermined tolerances. This constancy would be essential for applications
  []
 
 
-Overfull \hbox (9.71236pt too wide) in paragraph at lines 143--147
+Overfull \hbox (9.71236pt too wide) in paragraph at lines 132--136
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 affordability of modifying and improving designs, enabled 3D printing a compelling choice for specific
  []
 
-[9]
-Overfull \hbox (13.50116pt too wide) in paragraph at lines 153--158
+
+Overfull \hbox (13.50116pt too wide) in paragraph at lines 142--147
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 In summary, the complexity, repeatability, and accuracy of producing parts made of 6061-T6 aluminum
  []
 
 
-Overfull \hbox (15.04034pt too wide) in paragraph at lines 153--158
+Overfull \hbox (15.04034pt too wide) in paragraph at lines 142--147
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 applications, CNC and milling machining offered a greater degree of customization with good accuracy
  []
 
 
-Overfull \hbox (9.21848pt too wide) in paragraph at lines 153--158
+Overfull \hbox (9.21848pt too wide) in paragraph at lines 142--147
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 and consistency. The specified requirements, which balance the demands of precision, repeatability,
  []
 
-[10] [11]
-Overfull \hbox (22.66516pt too wide) in paragraph at lines 212--221
+[9] [10] [11]
+Overfull \hbox (22.66516pt too wide) in paragraph at lines 201--210
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 There was an evident difference in the time efficiency when the production durations of the components
  []
 
 
-Overfull \hbox (26.24916pt too wide) in paragraph at lines 222--231
+Overfull \hbox (26.24916pt too wide) in paragraph at lines 211--220
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 useful technique for projects that have a tight deadline because of its speedy manufacturing capabilities,
  []
 
 
-Overfull \hbox (8.96515pt too wide) in paragraph at lines 222--231
+Overfull \hbox (8.96515pt too wide) in paragraph at lines 211--220
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 strength and durability despite the longer production time, highlighting the balance between material
  []
 
 [12]
-Overfull \hbox (10.15318pt too wide) in paragraph at lines 240--247
+Overfull \hbox (10.15318pt too wide) in paragraph at lines 229--236
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 In contrast, making a component out of 6061-T6 aluminium required a far more involved and repetitive
  []
 
 
-Overfull \hbox (0.21045pt too wide) in paragraph at lines 240--247
+Overfull \hbox (0.21045pt too wide) in paragraph at lines 229--236
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 and sent to an engineer for assessment. Several rounds of comments and revisions were frequently
  []
 
 
-Overfull \hbox (12.61314pt too wide) in paragraph at lines 256--263
+Overfull \hbox (12.61314pt too wide) in paragraph at lines 245--252
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 from renewable resources like sugarcane and corn starch (as mentioned in Section [Tensile Strength])
  []
 
 
-Overfull \hbox (17.81044pt too wide) in paragraph at lines 256--263
+Overfull \hbox (17.81044pt too wide) in paragraph at lines 245--252
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 small quantities. Moreover, there was very little waste produced by additive manufacturing techniques.
  []
 
 
-Overfull \hbox (39.85443pt too wide) in paragraph at lines 264--273
+Overfull \hbox (39.85443pt too wide) in paragraph at lines 253--262
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 mining and refining. Additionally, substantial amounts of waste was produced by subtractive manufacturing
  []
 
 
-Overfull \hbox (5.29443pt too wide) in paragraph at lines 264--273
+Overfull \hbox (5.29443pt too wide) in paragraph at lines 253--262
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 techniques often used to produce aluminum, including shavings and off-cuts. But 6061-T6 aluminum
  []
 
 
-Overfull \hbox (2.59448pt too wide) in paragraph at lines 264--273
+Overfull \hbox (2.59448pt too wide) in paragraph at lines 253--262
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 was highly recyclable at the end of its lifespan without losing any of its qualities. Aluminum recycling
  []
 
@@ -1275,10 +1250,28 @@ Overfull \hbox (11.23901pt too wide) in paragraph at lines 18--137
 [17
 
 ]
+Overfull \hbox (50.03348pt too wide) in paragraph at lines 146--146
+[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 Aluminum Specification and Information\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][] []
+ []
 
-LaTeX Warning: Empty bibliography on input line 144.
+
+Overfull \hbox (1.02548pt too wide) in paragraph at lines 146--146
+[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 PLA Specification Data Sheet\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][] []
+ []
 
 
+Overfull \hbox (9.52557pt too wide) in paragraph at lines 146--146
+[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 PLA Specification Data Sheet From Ultimaker\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][][][][][] [] [][] [] [][] [][] [][][][][][][] [] [][][][][][][] []
+ []
+
+
+Overfull \hbox (10.44951pt too wide) in paragraph at lines 146--146
+[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 T6 6061 Aluminum Alloy Roughness\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][] [] [][][][][][][][][] []
+ []
+
+[18
+
+] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Scientific_work_SS2024.aux)
  ***********
@@ -1292,12 +1285,12 @@ Package logreq Info: Writing requests to 'Scientific_work_SS2024.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33539 strings out of 474761
- 676015 string characters out of 5757510
+ 33762 strings out of 474761
+ 681098 string characters out of 5757510
  1934145 words of memory out of 5000000
- 55262 multiletter control sequences out of 15000+600000
- 571637 words of font info for 94 fonts, out of 8000000 for 9000
+ 55484 multiletter control sequences out of 15000+600000
+ 571645 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 139i,20n,149p,11018b,594s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 139i,20n,149p,11018b,4783s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.xdv (17 pages, 277700 bytes).
+Output written on Scientific_work_SS2024.xdv (18 pages, 280596 bytes).

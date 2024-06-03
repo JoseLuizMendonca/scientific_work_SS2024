@@ -1,9 +1,15 @@
 [0] Config.pm:308> INFO - This is Biber 2.20
 [0] Config.pm:311> INFO - Logfile is 'Scientific_work_SS2024.blg'
-[75] biber:340> INFO - === Sun Jun  2, 2024, 20:33:23
-[88] Biber.pm:420> INFO - Reading 'Scientific_work_SS2024.bcf'
-[149] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
-[164] bbl.pm:676> INFO - Writing 'Scientific_work_SS2024.bbl' with encoding 'UTF-8'
-[165] bbl.pm:779> INFO - Output to Scientific_work_SS2024.bbl
-[165] Biber.pm:131> WARN - The file 'Scientific_work_SS2024.bcf' does not contain any citations!
-[165] Biber.pm:133> INFO - WARNINGS: 1
+[69] biber:340> INFO - === Mon Jun  3, 2024, 11:04:38
+[82] Biber.pm:420> INFO - Reading 'Scientific_work_SS2024.bcf'
+[137] Biber.pm:994> INFO - Found 5 citekeys in bib section 0
+[147] Biber.pm:4463> INFO - Processing section 0
+[155] Biber.pm:4654> INFO - Looking for bibtex file 'source.bib' for section 0
+[156] bibtex.pm:1713> INFO - LaTeX decoding ...
+[159] bibtex.pm:1519> INFO - Found BibTeX data source 'source.bib'
+[174] UCollate.pm:68> INFO - Overriding locale 'nil' defaults 'variable = shifted' with 'variable = non-ignorable'
+[174] UCollate.pm:68> INFO - Overriding locale 'nil' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[174] Biber.pm:4283> INFO - Sorting list 'nty/global//global/global/global' of type 'entry' with template 'nty' and locale 'nil'
+[175] Biber.pm:4289> INFO - No sort tailoring available for locale 'nil'
+[177] bbl.pm:676> INFO - Writing 'Scientific_work_SS2024.bbl' with encoding 'UTF-8'
+[178] bbl.pm:779> INFO - Output to Scientific_work_SS2024.bbl
