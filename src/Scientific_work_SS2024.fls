@@ -369,6 +369,12 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD5.tf
 INPUT ./results.tex
 INPUT ./results.tex
 INPUT results.tex
+INPUT ./pics/hub_shaft.jpeg
+INPUT ./pics/hub_shaft.jpeg
+INPUT ./pics/PLA_stiffnes.jpeg
+INPUT ./pics/PLA_stiffnes.jpeg
+INPUT ./pics/alu_stiffness.jpeg
+INPUT ./pics/alu_stiffness.jpeg
 INPUT ./discussion.tex
 INPUT ./discussion.tex
 INPUT discussion.tex

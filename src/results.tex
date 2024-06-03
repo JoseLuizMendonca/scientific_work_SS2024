@@ -23,8 +23,7 @@ This section has been split into nine sections to simplify the comparison of the
     made by BCN3D Technologies, an ultimate tensile strength of 70 MPa was reported from them.\cite{pla_spec} 
     The value shown is the highest possible stress PLA can withstand before breaking down to tension. Due to
     PLA has a relatively lower tensile strength, being a polymer and having a layer-by-layer deposition while 3D printing, can result in the formation of weak areas along the contact points. Despite its lower
-    tensile strength compared to metals, PLA can be used in situations where mechanical strength is not as important and instead can be used when specified components have to be made. Examples of what
-    components were made through 3D printing are shown below.
+    tensile strength compared to metals, PLA can be used in situations where mechanical strength is not as important and instead can be used when specified components have to be made.
     
     %[insert images of Chassis Body Corners, Suspension Rocker & Boogie, Chassis-Rocker Connector]
 
@@ -34,10 +33,17 @@ This section has been split into nine sections to simplify the comparison of the
     includes heat treatment and artificial aging to improve the mechanical properties of the alloy, is responsible for its high tensile strength. For structural components and applications that need high
     amounts of strength, 6061-T6 aluminum is the ideal material due to its better tensile strength. A good
     example can be the motor-wheel shaft which transmits torque from the motor to the wheel hub and from
-    the wheel hub to the wheel. In addition, there is the motor cover which supports the weight of the rover.
-    This can be shown below.
+    the wheel hub to the wheel.
 
     %[insert images of Shaft and Motor Cover working (can be an image from Fusion360)]
+
+    % start figure environment
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.5\textwidth]{hub_shaft.jpeg}
+        \caption{Motor-Wheel Hub shaft, machined out of 6061-T6 aluminum}
+        \label{fig:wheel-shaft-hub}
+    \end{figure}
 
 
 \section{Elasticity}
@@ -50,12 +56,28 @@ This section has been split into nine sections to simplify the comparison of the
     simple to produce can be seen in its low modulus score (link). The elasticity of PLA was moderate,
     meaning that it could deform under stress and return to its former shape when the load was released.
 
+    % start figure environment
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.5\textwidth]{PLA_stiffnes.jpeg}
+        \caption{PLA Stiffness}
+        \label{fig:pla-stiffness}
+    \end{figure}
+
     However, with certain components, the 3D-printed PLA could make it brittle. Therefore, it was appropriate
     for low-stress applications and prototyping where high rigidity was not a requirement. Elasticity in a
     material helped so that it could absorb some impact without permanent deformation, making it useful for
     lightweight and less structurally demanding parts.
     6061-T6 aluminum had a much greater Young's modulus of 68.9 GPa \cite{aluminum_spec}. Compared to PLA, 6061-T6
     aluminum was stiffer and had a smaller chance to deform under stress, as shown by its higher modulus.
+
+    % start figure environment
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.5\textwidth]{alu_stiffness.jpeg}
+        \caption{Aluminum Stiffness}
+        \label{fig:aluminum-stiffness}
+    \end{figure}
 
     The material was applicable in instances where rigidity and endurance were required due to its
     decreased elasticity, which allowed it to bear larger loads without experiencing significant deformation.
@@ -135,13 +157,7 @@ This section has been split into nine sections to simplify the comparison of the
     Nevertheless, CNC machining could have had limitations and frequently be needed for specialized
     equipment, despite its ability to handle complicated geometries. In conventional manufacturing,
     customization would be more costly and time-consuming as it required much more labor and funds to
-    change designs after tooling was put up.
-
-    In summary, the complexity, repeatability, and accuracy of producing parts made of 6061-T6 aluminum
-    and PLA showed the advantages and disadvantages of each process. Fr high-stress, high-volume
-    applications, CNC and milling machining offered a greater degree of customization with good accuracy
-    and consistency. The specified requirements, which balance the demands of precision, repeatability, and
-    design complexity, determined which of the approaches above was to be used.
+    change designs after the tooling was put up.
 
 \section{Cost}
 
@@ -198,7 +214,7 @@ This section has been split into nine sections to simplify the comparison of the
 
     There was an evident difference in the time efficiency when the production durations of the components
     made from 6061-T6 aluminum and PLA were compared. Using a Prusa MK4, the parts - which included
-    4x motor-wheel shafts, 2x rocker axles, and 2x boogie axles – were created in a total of eleven hours
+    4x motor-wheel shafts, 2x rocker axles, and 2x boogie axles - were created in a total of eleven hours
     and 30 minutes. This quick processing time and useful efficiency of 3D printing technology were shown by
     the rapid output that was achieved in a single print run. When it came to manufacturing the same
     components out of 6061-T6 aluminum, it took much longer. The parts were manufactured by Muharraq
@@ -212,51 +228,47 @@ This section has been split into nine sections to simplify the comparison of the
     enable quicker prototyping and shorter lead times. It should be mentioned nonetheless that the
     manufacturing time for the 6061-T6 aluminum components may change depending on the engineering
     firm and the particulars of the order. The aluminum components provide better strength and durability
-    despite the longer production time, highlighting the balance between material quality and speed. This
-    study acknowledged the advantages of 6061-T6 aluminum in applications demanding durable and sturdy
-    components, while also showing the effectiveness of 3D printing PLA for quick production needs.
+    despite the longer production time, highlighting the balance between material quality and speed.
 
 \section{Manufacturing Workflow Complexity}
 
-    The process of process of producing a component using 3D printing PLA was considerably more
-    straightforward compared to manufacturing the same component from 6061-T6 aluminium. The Prusa
+    The process of producing a component using 3D printing PLA was considerably more
+    straightforward compared to manufacturing the same component from 6061-T6 aluminum. The Prusa
     MK4 was simply loaded with an STL file to initiate the 3D printing process. Since no further technical
     procedures were needed to translate the digital content into a physical thing, this method required
     minimal preparation.
 
-    In contrast, making a component out of 6061-T6 aluminium required a far more involved and repetitive
+    In contrast, making a component out of 6061-T6 aluminum required a far more involved and repetitive
     procedure. The design had to be created in Fusion360, where detailed technical drawings were drawn up.
     For both accuracy and operation to be guaranteed, certain tolerances had to be finished and sent to an
     engineer for assessment. Several rounds of comments and revisions were frequently made during this
-    review process. The developer would put in the improvements into place after the engineer reviewed the
+    review process. The developer would put the improvements into place after the engineer reviewed the
     drawing and made any necessary suggestions; occasionally, this might need multiple iterations before
     final permission was given.
 
     In the final stages, the component would be approved and then put in a manufacturing queue to wait to
     be made. Compared to the process of 3D printing with PLA, the procedure of design, review, correction,
     and approval, followed by scheduling for production, added a significant amount of time and complexity.
-    This thorough comparison brought to light the advantages of 3D printing’s speed and ease of use over
-    traditional manufacturing methods for aluminum components, which are more complex and time-consuming.
 
 \section{Environmental Impact}
 
-    Since the introduction of 3D printing and the use of PLA, it had gained a number of environmentally
+    Since the introduction of 3D printing and the use of PLA, it has gained a number of environmentally
     beneficial characteristics along the way. PLA had a sustainable material source as it was made from
-    renewable resources like sugarcane and corn starch (as mentioned in Section [Tensile Strength]) In
+    renewable resources like sugarcane and corn starch In
     general, 3D printing PLA required less energy than conventional manufacturing techniques for small
     quantities. Moreover, there was very little waste produced by additive manufacturing techniques. PLA has
     low biodegradability in ordinary landfill sites, but it could be biodegraded under industrial composting
-    conditions when its lifespan comes to an end.
+    conditions when its lifespan comes to an end\cite{pla_environmental_impact1}\cite{pla_environmental_impact2}.
 
-    Conversely, the ecological impact of manufacturing with 6061-T6 aluminium was different. Bauxite ore
+    Conversely, the ecological impact of manufacturing with 6061-T6 aluminum was different. Bauxite ore
     was extracted to provide the raw material for aluminum, a process that is extremely energy-intensive
     during the mining and processing stages. As a result, the energy required to produce 6061-T6 aluminum
     was much higher because of the machinery and energy it required for both mining and refining.
-    Additionally, substantial amounts of waste was produced by subtractive manufacturing techniques often
+    Additionally, substantial amounts of waste were produced by subtractive manufacturing techniques often
     used to produce aluminum, including shavings and off-cuts. But 6061-T6 aluminum was highly
-    recyclable at the end of its lifespan without losing any of its qualities. Aluminum recycling used just
+    recyclable at the end of its lifespan without losing any of its qualities. Aluminum recycling uses just
     around 5\% of the energy needed to make new aluminum from ore, making it a very energy-efficient
-    process.
+    process\cite{aluminium_environmental_impact1}\cite{aluminium_environmental_impact2}.
 
     Under certain circumstances, PLA was recyclable and biodegradable, but its actual recyclability was
     constrained by the capabilities of infrastructure. However, the recycling process for 6061-T6 aluminum

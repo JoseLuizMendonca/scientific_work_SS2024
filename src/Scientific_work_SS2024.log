@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  3 JUN 2024 11:31
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  3 JUN 2024 15:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -980,7 +980,7 @@ Package csquotes Info: Adjusting default style.
 
 
 Package csquotes Warning: No style for language 'nil'.
-(csquotes)                Using fallback style on input line 102.
+(csquotes)                Using fallback style on input line 105.
 
 Package csquotes Info: Redefining alias 'default' -> 'fallback'.
 
@@ -990,31 +990,31 @@ LaTeX Warning: Unused global option(s):
 (./Scientific_work_SS2024.aux)
 \openout1 = `Scientific_work_SS2024.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 102.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 102.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 105.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 105.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-Package hyperref Info: Link coloring ON on input line 102.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 105.
+LaTeX Font Info:    ... okay on input line 105.
+Package hyperref Info: Link coloring ON on input line 105.
  (./Scientific_work_SS2024.out) (./Scientific_work_SS2024.out)
 \@outlinefile=\write5
 \openout5 = `Scientific_work_SS2024.out'.
@@ -1026,7 +1026,7 @@ Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           `bookmarkpackage=false' before \begin{document} and
 (scrreprt)           you can avoid this message adding:
 (scrreprt)             \usepackage{bookmark}
-(scrreprt)           before \begin{document} on input line 102.
+(scrreprt)           before \begin{document} on input line 105.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bookmark.sty
 Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/bookmark/bkm-dvipdfm.def
@@ -1042,7 +1042,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 ))
 \c@lstlisting=\count496
-Package tocbasic Info: setting babel extension for `lol' on input line 102.
+Package tocbasic Info: setting babel extension for `lol' on input line 105.
 \scr@dte@lstlisting@maxnumwidth=\skip99
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -1051,7 +1051,7 @@ Package biblatex Info: ... file 'nil.lbx' not found.
 
 
 Package biblatex Warning: Language 'nil' not supported.
-(biblatex)                Using dummy definitions on input line 102.
+(biblatex)                Using dummy definitions on input line 105.
 
 Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
@@ -1062,17 +1062,17 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Scientific_work_SS2024.bbl' found.
 (./Scientific_work_SS2024.bbl)
-Package biblatex Info: Reference section=0 on input line 102.
-Package biblatex Info: Reference segment=0 on input line 102.
+Package biblatex Info: Reference section=0 on input line 105.
+Package biblatex Info: Reference segment=0 on input line 105.
 File: rwulogo.eps Graphic file (type eps)
 <rwulogo.eps>
 
-Overfull \hbox (4.93413pt too wide) in paragraph at lines 104--104
+Overfull \hbox (4.93413pt too wide) in paragraph at lines 107--107
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/b/n/17.28 PLA Additive Manufacturing Chassis Parts for Small Scale Rovers 
  []
 
 
-Package datetime Warning: No month names provided for language 'nil' on input line 104.
+Package datetime Warning: No month names provided for language 'nil' on input line 107.
 
 [1
 
@@ -1098,100 +1098,78 @@ chapter 2.
 chapter 3.
 (./results.tex [5
 
-] [6]
-Overfull \hbox (20.2211pt too wide) in paragraph at lines 60--63
+]
+File: pics/hub_shaft.jpeg Graphic file (type bmp)
+<pics/hub_shaft.jpeg>
+ [6]
+File: pics/PLA_stiffnes.jpeg Graphic file (type bmp)
+<pics/PLA_stiffnes.jpeg>
+File: pics/alu_stiffness.jpeg Graphic file (type bmp)
+<pics/alu_stiffness.jpeg>
+ [7]
+Overfull \hbox (20.2211pt too wide) in paragraph at lines 82--85
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 decreased elasticity, which allowed it to bear larger loads without experiencing significant deformation.
  []
 
 
-Overfull \hbox (6.76564pt too wide) in paragraph at lines 65--71
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 deposition used in FDM (Fused Deposition Modelling) technology [[][]2[][]]. The print resolution determined
- []
-
-[7]
-Missing character: There is no ⁻ (U+207B) in font [Fonts/BarlowSemiCondensed-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-Missing character: There is no ⁻ (U+207B) in font [Fonts/BarlowSemiCondensed-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
-
-Overfull \hbox (7.48836pt too wide) in paragraph at lines 104--108
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 of thermal expansion of 6061-T6 aluminum, which is significantly lower than that of PLA and indicates
+Overfull \hbox (6.68164pt too wide) in paragraph at lines 87--93
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 deposition used in FDM (Fused Deposition Modelling) technology [[][]3[][]]. The print resolution determined
  []
 
 [8]
-Overfull \hbox (2.31044pt too wide) in paragraph at lines 122--129
+Missing character: There is no ⁻ (U+207B) in font [Fonts/BarlowSemiCondensed-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ⁻ (U+207B) in font [Fonts/BarlowSemiCondensed-Regular.ttf]/OT:script=latn;language=dflt;mapping=tex-text;!
+
+Overfull \hbox (7.48836pt too wide) in paragraph at lines 126--130
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 of thermal expansion of 6061-T6 aluminum, which is significantly lower than that of PLA and indicates
+ []
+
+[9]
+Overfull \hbox (2.31044pt too wide) in paragraph at lines 144--151
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 identical parts within predetermined tolerances. This constancy would be essential for applications
  []
 
 
-Overfull \hbox (9.71236pt too wide) in paragraph at lines 130--134
+Overfull \hbox (9.71236pt too wide) in paragraph at lines 152--156
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 affordability of modifying and improving designs, enabled 3D printing a compelling choice for specific
  []
 
-
-Overfull \hbox (13.50116pt too wide) in paragraph at lines 140--145
-[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 In summary, the complexity, repeatability, and accuracy of producing parts made of 6061-T6 aluminum
- []
-
-
-Overfull \hbox (15.04034pt too wide) in paragraph at lines 140--145
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 applications, CNC and milling machining offered a greater degree of customization with good accuracy
- []
-
-
-Overfull \hbox (9.21848pt too wide) in paragraph at lines 140--145
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 and consistency. The specified requirements, which balance the demands of precision, repeatability,
- []
-
-[9] [10] [11]
-Overfull \hbox (22.66516pt too wide) in paragraph at lines 199--208
+[10] [11] [12]
+Overfull \hbox (22.66516pt too wide) in paragraph at lines 215--224
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 There was an evident difference in the time efficiency when the production durations of the components
  []
 
 
-Overfull \hbox (26.24916pt too wide) in paragraph at lines 209--218
+Overfull \hbox (26.24916pt too wide) in paragraph at lines 225--232
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 useful technique for projects that have a tight deadline because of its speedy manufacturing capabilities,
  []
 
 
-Overfull \hbox (8.96515pt too wide) in paragraph at lines 209--218
+Overfull \hbox (8.96515pt too wide) in paragraph at lines 225--232
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 strength and durability despite the longer production time, highlighting the balance between material
  []
 
-[12]
-Overfull \hbox (10.15318pt too wide) in paragraph at lines 227--234
-[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 In contrast, making a component out of 6061-T6 aluminium required a far more involved and repetitive
+
+Overfull \hbox (7.64357pt too wide) in paragraph at lines 235--240
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 The process of producing a component using 3D printing PLA was considerably more straightforward
  []
 
 
-Overfull \hbox (0.21045pt too wide) in paragraph at lines 227--234
+Overfull \hbox (14.22092pt too wide) in paragraph at lines 235--240
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 simply loaded with an STL file to initiate the 3D printing process. Since no further technical procedures
+ []
+
+[13]
+Overfull \hbox (7.36919pt too wide) in paragraph at lines 241--248
+[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 In contrast, making a component out of 6061-T6 aluminum required a far more involved and repetitive
+ []
+
+
+Overfull \hbox (0.21045pt too wide) in paragraph at lines 241--248
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 and sent to an engineer for assessment. Several rounds of comments and revisions were frequently
  []
 
-
-Overfull \hbox (12.61314pt too wide) in paragraph at lines 243--250
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 from renewable resources like sugarcane and corn starch (as mentioned in Section [Tensile Strength])
- []
-
-
-Overfull \hbox (17.81044pt too wide) in paragraph at lines 243--250
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 small quantities. Moreover, there was very little waste produced by additive manufacturing techniques.
- []
-
-
-Overfull \hbox (39.85443pt too wide) in paragraph at lines 251--260
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 mining and refining. Additionally, substantial amounts of waste was produced by subtractive manufacturing
- []
-
-
-Overfull \hbox (5.29443pt too wide) in paragraph at lines 251--260
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 techniques often used to produce aluminum, including shavings and off-cuts. But 6061-T6 aluminum
- []
-
-
-Overfull \hbox (2.59448pt too wide) in paragraph at lines 251--260
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 was highly recyclable at the end of its lifespan without losing any of its qualities. Aluminum recycling
- []
-
-[13]) [14]
+[14]) [15]
 chapter 4.
 (./discussion.tex
 Overfull \hbox (8.32513pt too wide) in paragraph at lines 7--12
@@ -1228,9 +1206,9 @@ Overfull \hbox (4.90836pt too wide) in paragraph at lines 24--30
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 environmentally friendly and biodegradable 3D printing materials may provide long-term substitutes
  []
 
-[15
+[16
 
-]) [16]
+]) [17]
 chapter 5.
 (./conclusion.tex
 Overfull \hbox (5.56512pt too wide) in paragraph at lines 1--7
@@ -1243,33 +1221,33 @@ Overfull \hbox (27.24435pt too wide) in paragraph at lines 14--17
  []
 
 )
-Overfull \hbox (11.23901pt too wide) in paragraph at lines 18--137
+Overfull \hbox (11.23901pt too wide) in paragraph at lines 18--140
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 between PLA and 6061-T6 aluminium; balancing aspects such as physical properties, cost, production
  []
 
-[17
+[18
 
 ]
-Overfull \hbox (50.03348pt too wide) in paragraph at lines 146--146
+Overfull \hbox (50.03348pt too wide) in paragraph at lines 149--149
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 Aluminum Specification and Information\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (1.02548pt too wide) in paragraph at lines 146--146
+Overfull \hbox (1.02548pt too wide) in paragraph at lines 149--149
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 PLA Specification Data Sheet\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][] []
  []
 
 
-Overfull \hbox (9.52557pt too wide) in paragraph at lines 146--146
+Overfull \hbox (9.52557pt too wide) in paragraph at lines 149--149
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 PLA Specification Data Sheet From Ultimaker\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][][][][][] [] [][] [] [][] [][] [][][][][][][] [] [][][][][][][] []
  []
 
 
-Overfull \hbox (10.44951pt too wide) in paragraph at lines 146--146
+Overfull \hbox (10.44951pt too wide) in paragraph at lines 149--149
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 T6 6061 Aluminum Alloy Roughness\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][] [] [][][][][][][][][] []
  []
 
-[18
+[19
 
 ] 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -1285,12 +1263,12 @@ Package logreq Info: Writing requests to 'Scientific_work_SS2024.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33762 strings out of 474761
- 681098 string characters out of 5757510
- 1934145 words of memory out of 5000000
- 55484 multiletter control sequences out of 15000+600000
+ 33821 strings out of 474761
+ 682937 string characters out of 5757510
+ 1939145 words of memory out of 5000000
+ 55538 multiletter control sequences out of 15000+600000
  571645 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  139i,20n,149p,11018b,4783s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.xdv (18 pages, 280812 bytes).
+Output written on Scientific_work_SS2024.xdv (19 pages, 282028 bytes).
