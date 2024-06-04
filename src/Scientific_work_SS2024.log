@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  4 JUN 2024 18:26
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  4 JUN 2024 18:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1149,42 +1149,42 @@ Overfull \hbox (9.71236pt too wide) in paragraph at lines 156--160
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 affordability of modifying and improving designs, enabled 3D printing a compelling choice for specific
  []
 
-[11] [12] [13]
-Overfull \hbox (22.66516pt too wide) in paragraph at lines 219--228
+[11] [12]
+Overfull \hbox (22.66516pt too wide) in paragraph at lines 217--226
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 There was an evident difference in the time efficiency when the production durations of the components
  []
 
 
-Overfull \hbox (26.24916pt too wide) in paragraph at lines 229--236
+Overfull \hbox (26.24916pt too wide) in paragraph at lines 227--234
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 useful technique for projects that have a tight deadline because of its speedy manufacturing capabilities,
  []
 
 
-Overfull \hbox (8.96515pt too wide) in paragraph at lines 229--236
+Overfull \hbox (8.96515pt too wide) in paragraph at lines 227--234
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 strength and durability despite the longer production time, highlighting the balance between material
  []
 
 
-Overfull \hbox (7.64357pt too wide) in paragraph at lines 239--244
+Overfull \hbox (7.64357pt too wide) in paragraph at lines 237--242
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 The process of producing a component using 3D printing PLA was considerably more straightforward
  []
 
 
-Overfull \hbox (14.22092pt too wide) in paragraph at lines 239--244
+Overfull \hbox (14.22092pt too wide) in paragraph at lines 237--242
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 simply loaded with an STL file to initiate the 3D printing process. Since no further technical procedures
  []
 
-[14]
-Overfull \hbox (7.36919pt too wide) in paragraph at lines 245--252
+[13]
+Overfull \hbox (7.36919pt too wide) in paragraph at lines 243--250
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 In contrast, making a component out of 6061-T6 aluminum required a far more involved and repetitive
  []
 
 
-Overfull \hbox (0.21045pt too wide) in paragraph at lines 245--252
+Overfull \hbox (0.21045pt too wide) in paragraph at lines 243--250
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 and sent to an engineer for assessment. Several rounds of comments and revisions were frequently
  []
 
-[15]) [16]
+[14]) [15]
 chapter 4.
 (./discussion.tex
 Overfull \hbox (8.32513pt too wide) in paragraph at lines 7--12
@@ -1221,9 +1221,9 @@ Overfull \hbox (4.90836pt too wide) in paragraph at lines 24--30
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 environmentally friendly and biodegradable 3D printing materials may provide long-term substitutes
  []
 
-[17
+[16
 
-]) [18]
+]) [17]
 chapter 5.
 (./conclusion.tex
 Overfull \hbox (5.56512pt too wide) in paragraph at lines 1--7
@@ -1240,7 +1240,7 @@ Overfull \hbox (11.23901pt too wide) in paragraph at lines 18--141
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 between PLA and 6061-T6 aluminium; balancing aspects such as physical properties, cost, production
  []
 
-[19
+[18
 
 ]
 Overfull \hbox (53.92148pt too wide) in paragraph at lines 150--150
@@ -1257,7 +1257,7 @@ Overfull \hbox (14.33751pt too wide) in paragraph at lines 150--150
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 T6 6061 Aluminum Alloy Roughness\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][] [] [][][][][][][][][] []
  []
 
-[20
+[19
 
 ] 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -1266,15 +1266,8 @@ enddocument/afterlastpage: lastpage setting LastPage.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `Scientific_work_SS2024.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please rerun LaTeX.
-
 Package logreq Info: Writing requests to 'Scientific_work_SS2024.run.xml'.
 \openout1 = `Scientific_work_SS2024.run.xml'.
 
@@ -1288,4 +1281,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  139i,20n,149p,11018b,4783s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.xdv (20 pages, 288664 bytes).
+Output written on Scientific_work_SS2024.xdv (19 pages, 287816 bytes).
