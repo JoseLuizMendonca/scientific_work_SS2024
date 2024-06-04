@@ -371,6 +371,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolC5.tf
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD7.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/mnsymbol/MnSymbolD5.tfm
+INPUT ./introduction.tex
+INPUT ./introduction.tex
+INPUT introduction.tex
 INPUT ./results.tex
 INPUT ./results.tex
 INPUT results.tex
