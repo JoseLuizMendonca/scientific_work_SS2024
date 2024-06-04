@@ -2380,10 +2380,12 @@
     <bcf:citekey order="6" intorder="1">T6_roughness_wiki</bcf:citekey>
     <bcf:citekey order="7" intorder="1">pla_spec_ultimaker</bcf:citekey>
     <bcf:citekey order="8" intorder="1">aluminum_spec</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">pla_environmental_impact1</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">pla_environmental_impact2</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">aluminium_environmental_impact1</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">aluminium_environmental_impact2</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">prusa_mk4_precision</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">cnc_milling_precision</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">pla_environmental_impact1</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">pla_environmental_impact2</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">aluminium_environmental_impact1</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">aluminium_environmental_impact2</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

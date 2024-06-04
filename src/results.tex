@@ -91,9 +91,13 @@ This section has been split into nine sections to simplify the comparison of the
     methods like coating and sanding were used. Despite these initiatives, 3D-printed PLA had rougher
     surfaces than machined metals.
 
-        %[have 3x images of the Motor-Wheel Shaft to compare the smoothness / MK3 printed vs MK4 printed vs
-            %MK4 printed then sanded] ………. Possibly also having a physical survey for people to touch each one and
-    %compare?
+        % Add to figure environment
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.5\textwidth]{alu_pla_surface.jpeg}
+        \caption{3D Printed PLA Surface vs 6061-T6 Aluminum Surface}
+        \label{fig:pla-surface}
+    \end{figure}
 
     Next, components were made of 6061-T6 aluminum, which had a smoother surface and very little roughness
     (commonly at Ra 0.4 μm)\cite{T6_roughness_wiki}. The components were produced with a certain degree of surface consistency
@@ -120,10 +124,10 @@ This section has been split into nine sections to simplify the comparison of the
     lower melting point of 145 °C to 160 °C, which makes it acceptable for low-temperature applications. PLA
     components are also more prone to dimensional changes with temperature variations, which could
     impact their stability and precision in some applications. The coefficient of thermal expansion \cite{pla_spec_ultimaker} for PLA
-    ranges from 68 to 100 x 10⁻⁶/ °C. In addition, it loses its mechanical qualities and structural integrity due
+    ranges from 68 to \(100\) x \(10^2\) °C. In addition, it loses its mechanical qualities and structural integrity due
     to thermal breakdown, which starts at temperatures higher than 200 °C.
 
-    6061-T6 aluminum, on the contrary, has a much higher melting point between 582°C and 652°C making it ideal for high-temperature applications. Approximately 23.6 x 10⁻⁶ /°C is the coefficient of
+    6061-T6 aluminum, on the contrary, has a much higher melting point between \(582\) °C and \(652\) °C making it ideal for high-temperature applications. Approximately \(23.6\) x \(10^2\)°C is the coefficient of
     thermal expansion of 6061-T6 aluminum, which is significantly lower than that of PLA and indicates a higher dimensional stability during temperature fluctuations. Furthermore, 6061-T6 aluminum retains its
     mechanical qualities and structural integrity across many circumstances and does not break down at
     normal operational temperatures. This comparison between the two materials emphasizes how important it is to choose the correct thermal requirements for an application. \cite{aluminum_spec}
@@ -134,11 +138,11 @@ This section has been split into nine sections to simplify the comparison of the
     6061-T6 aluminum using CNC machining or milling demonstrated differences in the two materials and
     processes in terms of dimensional accuracy, repeatability, complexity, and customization potential.
 
-    With the Prusa MK4 dimensional accuracy for 3D printed parts usually varied between ±0.1 and ±0.2 mm,
+    With the Prusa MK4 dimensional accuracy for 3D printed parts usually varied between ±0.1 and ±0.2 mm \cite{prusa_mk4_precision},
     depending on variables which included: layer height, print speed, nozzle diameter, and printer calibration.
     The overall precision of the items was impacted by the inherent unpredictability introduced by the layer-by-layer deposition process of 3D printing. On the other hand, components made from 6061-T6 aluminum
     that were CNC machined or milled showed much better dimensional precision, with tolerances usually
-    ranging from ±0.02 mm to ±0.005 mm. The machining procedure, equipment calibration, tool wear, and
+    ranging from ±0.02 mm to ±0.005 mm \cite{cnc_milling_precision}. The machining procedure, equipment calibration, tool wear, and
     thermal expansion could have been variables that affected this precision.
 
     Another important factor was repeatability, or the ability to consistently make the same parts. When

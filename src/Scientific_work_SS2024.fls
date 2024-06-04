@@ -189,6 +189,11 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/subfigure/subfigure.cfg
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
@@ -375,6 +380,8 @@ INPUT ./pics/PLA_stiffnes.jpeg
 INPUT ./pics/PLA_stiffnes.jpeg
 INPUT ./pics/alu_stiffness.jpeg
 INPUT ./pics/alu_stiffness.jpeg
+INPUT ./pics/alu_pla_surface.jpeg
+INPUT ./pics/alu_pla_surface.jpeg
 INPUT ./discussion.tex
 INPUT ./discussion.tex
 INPUT discussion.tex

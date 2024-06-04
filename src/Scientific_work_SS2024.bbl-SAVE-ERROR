@@ -1,0 +1,113 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{aluminium_environmental_impact1}{misc}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://airqoon.com/resources/aluminum-industry-and-environmental-impacts/}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{Aluminum Industry and Environmental Impacts}
+    \endentry
+    \entry{aluminum_spec}{misc}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://asm.matweb.com/search/SpecificMaterial.asp?bassnum=ma6061t6}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{Aluminum Specification and Information}
+    \endentry
+    \entry{CNC_precision}{misc}{}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://metrom.com/the-benefits-of-using-a-cnc-milling-machine/#:~:text=In%20general%20the%20accuracy%20of,repeatability%20is%200.003%20mm%20to%20}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{CNC Machining Precision}
+    \endentry
+    \entry{prusa_mk4_precision}{misc}{}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://help.prusa3d.com/article/faq-frequently-asked-questions_1932}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{FAQ - Frequently Asked Questions}
+    \endentry
+    \entry{fusion_deposition_modeling}{misc}{}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://de.wikipedia.org/wiki/Fused_Deposition_Modeling}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{Fusion Deposition Modeling Definition}
+    \endentry
+    \entry{pla_environmental_impact2}{misc}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.filamentive.com/how-sustainable-is-pla/}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{How Sustainable is PLA?}
+    \endentry
+    \entry{pla_spec}{misc}{}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://asm.matweb.com/search/SpecificMaterial.asp?bassnum=ma6061t6}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{PLA Specification Data Sheet}
+    \endentry
+    \entry{pla_spec_ultimaker}{misc}{}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://thes3d.gr/wp-content/uploads/2016/09/TDS-PLAv2.001.pdf}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{PLA Specification Data Sheet From Ultimaker}
+    \endentry
+    \entry{pla_environmental_impact1}{misc}{}{}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.elegoo.com/en-de/blogs/learn/sustainable-3d-printing-insight}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{Sustainable 3D Printing Insight}
+    \endentry
+    \entry{T6_roughness_wiki}{misc}{}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://en.wikipedia.org/wiki/6061_aluminium_alloy}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{T6 6061 Aluminum Alloy Roughness}
+    \endentry
+    \entry{aluminium_environmental_impact2}{misc}{}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://trayak.com/the-environmental-impact-of-aluminum}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{The Environmental Impact of Aluminum}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
