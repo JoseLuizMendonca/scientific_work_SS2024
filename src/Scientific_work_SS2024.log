@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  4 JUN 2024 18:46
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  8 JUN 2024 14:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1285,10 +1285,10 @@ Package logreq Info: Writing requests to 'Scientific_work_SS2024.run.xml'.
 Here is how much of TeX's memory you used:
  33988 strings out of 474761
  686025 string characters out of 5757510
- 1943145 words of memory out of 5000000
+ 1942145 words of memory out of 5000000
  55695 multiletter control sequences out of 15000+600000
  571645 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  139i,20n,149p,11018b,4783s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.xdv (19 pages, 298424 bytes).
+Output written on Scientific_work_SS2024.xdv (19 pages, 298208 bytes).
