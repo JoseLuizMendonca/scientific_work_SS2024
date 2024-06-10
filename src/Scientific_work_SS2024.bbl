@@ -91,6 +91,14 @@
       \field{note}{Accessed: 2024-05-31}
       \field{title}{T6 6061 Aluminum Alloy Roughness}
     \endentry
+    \entry{figure_materials_tensile}{misc}{}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.bcn3d.com/guide-to-filament-properties/}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{Tensile Strenght table for different 3D printed materials}
+    \endentry
     \entry{cnc_milling_precision}{misc}{}{}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
@@ -106,6 +114,14 @@
       \field{howpublished}{\url{https://trayak.com/the-environmental-impact-of-aluminum}}
       \field{note}{Accessed: 2024-05-31}
       \field{title}{The Environmental Impact of Aluminum}
+    \endentry
+    \entry{Elasticity_graph_aluminium}{misc}{}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.researchgate.net/figure/5083-H116-and-6061-T651-elevated-temperature-Youngs-modulus-Data-reported-in-Eurocode-9_fig4_276129344}}
+      \field{note}{Accessed: 2024-05-31}
+      \field{title}{Thermal Conductivity table for different 3D printed materials}
     \endentry
   \enddatalist
 \endrefsection
