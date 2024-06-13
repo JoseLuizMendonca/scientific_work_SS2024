@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  10 JUN 2024 11:45
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  13 JUN 2024 10:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1241,8 +1241,8 @@ Overfull \hbox (4.90836pt too wide) in paragraph at lines 24--30
 ]) [17]
 chapter 5.
 (./conclusion.tex
-Overfull \hbox (5.56512pt too wide) in paragraph at lines 1--7
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 in terms of cost effectiveness and speedy prototyping, its use is restricted to low-stress applications
+Overfull \hbox (8.12914pt too wide) in paragraph at lines 1--7
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 in terms of cost-effectiveness and speedy prototyping, its use is restricted to low-stress applications
  []
 
 
@@ -1251,8 +1251,8 @@ Overfull \hbox (27.24435pt too wide) in paragraph at lines 14--17
  []
 
 )
-Overfull \hbox (11.23901pt too wide) in paragraph at lines 18--142
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 between PLA and 6061-T6 aluminium; balancing aspects such as physical properties, cost, production
+Overfull \hbox (8.45502pt too wide) in paragraph at lines 18--142
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 between PLA and 6061-T6 aluminum; balancing aspects such as physical properties, cost, production
  []
 
 [18
@@ -1295,10 +1295,10 @@ Package logreq Info: Writing requests to 'Scientific_work_SS2024.run.xml'.
 Here is how much of TeX's memory you used:
  33994 strings out of 474761
  686383 string characters out of 5757510
- 1946145 words of memory out of 5000000
+ 1945145 words of memory out of 5000000
  55701 multiletter control sequences out of 15000+600000
  571645 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  139i,20n,149p,11018b,5043s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.xdv (20 pages, 305328 bytes).
+Output written on Scientific_work_SS2024.xdv (20 pages, 305336 bytes).

@@ -1,17 +1,17 @@
 # Fdb version 4
-["biber Scientific_work_SS2024"] 1718012554.43938 "Scientific_work_SS2024.bcf" "Scientific_work_SS2024.bbl" "Scientific_work_SS2024" 1718012731.7914 0
-  "Scientific_work_SS2024.bcf" 1718012731.30719 109687 383d61eaf08a890fff6fdb10ef5bac6b "xelatex"
+["biber Scientific_work_SS2024"] 1718012554.43938 "Scientific_work_SS2024.bcf" "Scientific_work_SS2024.bbl" "Scientific_work_SS2024" 1718268359.90548 0
+  "Scientific_work_SS2024.bcf" 1718268359.372 109687 383d61eaf08a890fff6fdb10ef5bac6b "xelatex"
   "source.bib" 1718012238.96952 3212 70b0710230fe05fe25c214cbcd290ded ""
   (generated)
   "Scientific_work_SS2024.bbl"
   "Scientific_work_SS2024.blg"
   (rewritten before read)
-["xdvipdfmx"] 1718012731.41537 "Scientific_work_SS2024.xdv" "Scientific_work_SS2024.pdf" "Scientific_work_SS2024" 1718012731.79412 0
-  "Scientific_work_SS2024.xdv" 1718012731.31119 305328 fba3f82f5343b7316e42ed555a82f6a7 "xelatex"
+["xdvipdfmx"] 1718268359.49631 "Scientific_work_SS2024.xdv" "Scientific_work_SS2024.pdf" "Scientific_work_SS2024" 1718268359.90827 0
+  "Scientific_work_SS2024.xdv" 1718268359.372 305336 54ca2141ff0f45ee51f779323e47e727 "xelatex"
   (generated)
   "Scientific_work_SS2024.pdf"
   (rewritten before read)
-["xelatex"] 1718012728.26287 "/home/joseluiz/personal/github/scientific_work_SS2024/src/Scientific_work_SS2024.tex" "Scientific_work_SS2024.xdv" "Scientific_work_SS2024" 1718012731.7915 0
+["xelatex"] 1718268356.22014 "/home/joseluiz/personal/github/scientific_work_SS2024/src/Scientific_work_SS2024.tex" "Scientific_work_SS2024.xdv" "Scientific_work_SS2024" 1718268359.90559 0
   "/home/joseluiz/personal/github/scientific_work_SS2024/src/Scientific_work_SS2024.tex" 1717519458.35184 6285 5ba867d5a028366a34e551450bb72f2e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -193,20 +193,20 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1710714342 41663 c82a74d8036de408d74af2c8ae75c7e5 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1712653276 10850876 1e25def292bf9f8e5f40af08f28dfb26 ""
   "/usr/local/texlive/2024/texmf.cnf" 1712653202.15233 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Scientific_work_SS2024.aux" 1718012731.30319 5748 81dac7ae1bdd40097a88c7d7c2f7b602 "xelatex"
+  "Scientific_work_SS2024.aux" 1718268359.364 5748 81dac7ae1bdd40097a88c7d7c2f7b602 "xelatex"
   "Scientific_work_SS2024.bbl" 1718012559.23919 5605 bc5bed072a32c739a73c5740db20d9b6 "biber Scientific_work_SS2024"
-  "Scientific_work_SS2024.out" 1718012730.9072 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "Scientific_work_SS2024.run.xml" 1718012731.31119 2431 387c4e6349f1ece3fa30a1734d307f13 "xelatex"
+  "Scientific_work_SS2024.out" 1718268358.952 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "Scientific_work_SS2024.run.xml" 1718268359.372 2431 387c4e6349f1ece3fa30a1734d307f13 "xelatex"
   "Scientific_work_SS2024.tex" 1717519458.35184 6285 5ba867d5a028366a34e551450bb72f2e ""
-  "Scientific_work_SS2024.toc" 1718012731.31119 1107 98be7016d156fa464a21886d8a516648 "xelatex"
-  "conclusion.tex" 1717351862.14704 1654 bb384ca5eb157ed6a77ef66571de385e ""
+  "Scientific_work_SS2024.toc" 1718268359.372 1107 98be7016d156fa464a21886d8a516648 "xelatex"
+  "conclusion.tex" 1718268288.14 1652 3fc097b0fa67a628726dae0e30a8e0e8 ""
   "discussion.tex" 1717418009.12667 2932 c08e2ad8e5942bb1c6cf88e946f7da0c ""
   "introduction.tex" 1717850095.78 1101 0f128ec2ea3a56fb2c63885d6fc5c44b ""
   "pics/PLA_stiffnes.jpeg" 1717418811.79388 68943 ddf78ba53110064217d4b37bca1011c3 ""
   "pics/alu_pla_surface.jpeg" 1717517457.85188 93104 07b11c5418be39563110e5ac7c3693ed ""
   "pics/alu_stiffness.jpeg" 1717418834.58968 158297 6f4c06f854af29a7aa5471a440e8c46e ""
   "pics/hub_shaft.jpeg" 1717418844.7376 414399 bbb9f8d12a0d3a0b5880216f4aa5500f ""
-  "results.tex" 1718012728.10719 18874 8001edb5885b05ac93a7c4481090410a ""
+  "results.tex" 1718268356.08 18879 f4c3eafab0d286bb985764123f9d4679 ""
   "rwubase.sty" 1717321364.39841 160 e0a6e136128bd47a55a02e77521dbba3 ""
   "rwudefs.sty" 1717321364.39841 544 16ea0fbf1cfb8530af341dbbe57a1974 ""
   "rwufont.sty" 1717321364.39841 1444 5a45df1ee494d232b1da6000b06209ef ""
