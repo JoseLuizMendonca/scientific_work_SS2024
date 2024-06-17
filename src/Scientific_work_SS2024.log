@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  13 JUN 2024 11:13
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  17 JUN 2024 16:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1082,7 +1082,15 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Scientific_work_SS2024.bbl' found.
-(./Scientific_work_SS2024.bbl)
+(./Scientific_work_SS2024.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                pla_spec
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 106.
 Package biblatex Info: Reference segment=0 on input line 106.
 File: rwulogo.eps Graphic file (type eps)
@@ -1130,14 +1138,30 @@ chapter 3.
 (./results.tex [5
 
 ]
+
+LaTeX Warning: Citation 'pla_spec' on page 6 undefined on input line 23.
+
+
+Overfull \hbox (1.89767pt too wide) in paragraph at lines 22--27
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 contact points. Despite its lower tensile strength compared to metals, PLA can be used in situations
+ []
+
+
+Overfull \hbox (3.29314pt too wide) in paragraph at lines 22--27
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 where mechanical strength is not as important and instead can be used when specified components
+ []
+
 File: pics/hub_shaft.jpeg Graphic file (type bmp)
 <pics/hub_shaft.jpeg>
- [6]
+[6]
+
+LaTeX Warning: Citation 'pla_spec' on page 7 undefined on input line 54.
+
 File: pics/PLA_stiffnes.jpeg Graphic file (type bmp)
 <pics/PLA_stiffnes.jpeg>
 File: pics/alu_stiffness.jpeg Graphic file (type bmp)
 <pics/alu_stiffness.jpeg>
- [7]
+[7]
 Overfull \hbox (20.2211pt too wide) in paragraph at lines 85--88
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 decreased elasticity, which allowed it to bear larger loads without experiencing significant deformation.
  []
@@ -1150,8 +1174,8 @@ Overfull \hbox (6.93364pt too wide) in paragraph at lines 90--96
 File: pics/alu_pla_surface.jpeg Graphic file (type bmp)
 <pics/alu_pla_surface.jpeg>
 [8] [9]
-Overfull \hbox (16.61847pt too wide) in paragraph at lines 144--150
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 precision, with tolerances usually ranging from ±0.02 mm to ±0.005 mm [[][]11[][]]. The machining procedure,
+Overfull \hbox (12.83846pt too wide) in paragraph at lines 144--150
+\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 precision, with tolerances usually ranging from ±0.01 mm to ±0.003 mm [[][]9[][]]. The machining procedure,
  []
 
 [10]
@@ -1263,23 +1287,13 @@ Overfull \hbox (53.92148pt too wide) in paragraph at lines 151--151
  []
 
 
-Overfull \hbox (4.91348pt too wide) in paragraph at lines 151--151
-[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 PLA Specification Data Sheet\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][][] [] [][][][][][] [] [][][] [] [][][][][][] [] [][][][][][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (14.33751pt too wide) in paragraph at lines 151--151
-[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 T6 6061 Aluminum Alloy Roughness\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][] [] [][][][][][][][][] [] [][][] [] [][][][] [] [][][][] [] [][][][][][][][][] []
- []
-
-
 Overfull \hbox (3.63365pt too wide) in paragraph at lines 151--151
 []\TU/BarlowSemiCondensed-Regular.ttf(0)/m/it/12 Thermal Conductivity table for different 3D printed materials\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 . [][]$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][] []
  []
 
 [19
 
-] [20] 
+] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Scientific_work_SS2024.aux)
  ***********
@@ -1293,12 +1307,12 @@ Package logreq Info: Writing requests to 'Scientific_work_SS2024.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33994 strings out of 474761
- 686383 string characters out of 5757510
+ 33989 strings out of 474761
+ 686110 string characters out of 5757510
  1945145 words of memory out of 5000000
- 55701 multiletter control sequences out of 15000+600000
+ 55696 multiletter control sequences out of 15000+600000
  571645 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 139i,20n,149p,11018b,5043s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 139i,20n,149p,11018b,4783s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.xdv (20 pages, 305336 bytes).
+Output written on Scientific_work_SS2024.xdv (19 pages, 300632 bytes).

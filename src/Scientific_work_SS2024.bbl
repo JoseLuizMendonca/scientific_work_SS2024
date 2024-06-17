@@ -47,7 +47,7 @@
       \field{sortinit}{F}
       \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://de.wikipedia.org/wiki/Fused_Deposition_Modeling}}
+      \field{howpublished}{\url{https://www.hubs.com/knowledge-base/what-is-fdm-3d-printing/}}
       \field{note}{Accessed: 2024-05-31}
       \field{title}{Fusion Deposition Modeling Definition}
     \endentry
@@ -58,14 +58,6 @@
       \field{howpublished}{\url{https://www.filamentive.com/how-sustainable-is-pla/}}
       \field{note}{Accessed: 2024-05-31}
       \field{title}{How Sustainable is PLA?}
-    \endentry
-    \entry{pla_spec}{misc}{}{}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://asm.matweb.com/search/SpecificMaterial.asp?bassnum=ma6061t6}}
-      \field{note}{Accessed: 2024-05-31}
-      \field{title}{PLA Specification Data Sheet}
     \endentry
     \entry{pla_spec_ultimaker}{misc}{}{}
       \field{sortinit}{P}
@@ -83,21 +75,13 @@
       \field{note}{Accessed: 2024-05-31}
       \field{title}{Sustainable 3D Printing Insight}
     \endentry
-    \entry{T6_roughness_wiki}{misc}{}{}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://en.wikipedia.org/wiki/6061_aluminium_alloy}}
-      \field{note}{Accessed: 2024-05-31}
-      \field{title}{T6 6061 Aluminum Alloy Roughness}
-    \endentry
     \entry{figure_materials_tensile}{misc}{}{}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.bcn3d.com/guide-to-filament-properties/}}
       \field{note}{Accessed: 2024-05-31}
-      \field{title}{Tensile Strenght table for different 3D printed materials}
+      \field{title}{Tensile Strength table for different 3D printed materials}
     \endentry
     \entry{cnc_milling_precision}{misc}{}{}
       \field{sortinit}{T}
@@ -124,6 +108,7 @@
       \field{title}{Thermal Conductivity table for different 3D printed materials}
     \endentry
   \enddatalist
+  \missing{pla_spec}
 \endrefsection
 \endinput
 
