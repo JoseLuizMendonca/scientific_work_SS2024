@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  17 JUN 2024 16:50
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  17 JUN 2024 16:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1082,15 +1082,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Scientific_work_SS2024.bbl' found.
-(./Scientific_work_SS2024.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                pla_spec
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+(./Scientific_work_SS2024.bbl)
 Package biblatex Info: Reference section=0 on input line 106.
 Package biblatex Info: Reference segment=0 on input line 106.
 File: rwulogo.eps Graphic file (type eps)
@@ -1141,14 +1133,11 @@ chapter 3.
 File: pics/hub_shaft.jpeg Graphic file (type bmp)
 <pics/hub_shaft.jpeg>
  [6]
-
-LaTeX Warning: Citation 'pla_spec' on page 7 undefined on input line 54.
-
 File: pics/PLA_stiffnes.jpeg Graphic file (type bmp)
 <pics/PLA_stiffnes.jpeg>
 File: pics/alu_stiffness.jpeg Graphic file (type bmp)
 <pics/alu_stiffness.jpeg>
-[7]
+ [7]
 Overfull \hbox (20.2211pt too wide) in paragraph at lines 85--88
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 decreased elasticity, which allowed it to bear larger loads without experiencing significant deformation.
  []
@@ -1294,12 +1283,12 @@ Package logreq Info: Writing requests to 'Scientific_work_SS2024.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33989 strings out of 474761
- 686110 string characters out of 5757510
+ 33988 strings out of 474761
+ 686100 string characters out of 5757510
  1945145 words of memory out of 5000000
- 55696 multiletter control sequences out of 15000+600000
+ 55695 multiletter control sequences out of 15000+600000
  571645 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  139i,20n,149p,11018b,4783s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.xdv (19 pages, 300728 bytes).
+Output written on Scientific_work_SS2024.xdv (19 pages, 300808 bytes).
