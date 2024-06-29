@@ -30,7 +30,6 @@
 
         - Thesis: Yes, 3 printing is a suitable method for this purpose
 
-            - 
 
 
 
