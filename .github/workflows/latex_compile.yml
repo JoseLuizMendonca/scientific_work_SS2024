@@ -1,7 +1,7 @@
 name: Compile LaTeX document
 on:
   push:
-    branches: [ zion , joey ]
+    branches: [ zion , joey , main ]
 jobs:
   compile_latex:
     runs-on: ubuntu-latest
