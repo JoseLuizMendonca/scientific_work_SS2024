@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  29 JUN 2024 18:10
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.9)  30 JUN 2024 12:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1245,17 +1245,7 @@ Overfull \hbox (8.12914pt too wide) in paragraph at lines 1--7
 \TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 in terms of cost-effectiveness and speedy prototyping, its use is restricted to low-stress applications
  []
 
-
-Overfull \hbox (27.24435pt too wide) in paragraph at lines 14--17
-[]\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 To broaden the comparison, additional 3D printing processes and aluminium alloys should be investigated
- []
-
-)
-Overfull \hbox (8.45502pt too wide) in paragraph at lines 18--142
-\TU/BarlowSemiCondensed-Regular.ttf(0)/m/n/12 between PLA and 6061-T6 aluminum; balancing aspects such as physical properties, cost, production
- []
-
-[18
+) [18
 
 ]
 Overfull \hbox (53.92148pt too wide) in paragraph at lines 151--151
@@ -1291,4 +1281,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  139i,20n,149p,11018b,4783s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Scientific_work_SS2024.xdv (19 pages, 300560 bytes).
+Output written on Scientific_work_SS2024.xdv (19 pages, 299820 bytes).
